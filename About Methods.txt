@@ -2,3 +2,4 @@ Method 1 - Done during summer internship. Text independent using 25 min data and
 Method 2 - Done at college. Word dependent using Naive Bayes and 1 min data. High accuracy, low sec, low data, more like word recog
 Method 3 - Done in TVS. Text independent on 25 min data. Creating df with other features apart from MFCC. Also trying to reduce data size. Model undecided.
 Method 4 - Done in TVS. Text dependent where 5 min speech needed per user - 20 words, 5 times, 3 secs long. Then jumble and generate 5 words on screen to predict. Build diff model for each word and when random words picked load the model and predict the user name.
+Method 5 - Continuation of Method 4 but with augmented data for better accuracy during prediction.
