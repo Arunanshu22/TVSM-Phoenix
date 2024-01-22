@@ -1,1 +1,0 @@
-1) Plan an LLM usage along with google speech to text. 
