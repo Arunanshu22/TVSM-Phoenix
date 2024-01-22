@@ -2,3 +2,4 @@
 
 Speech-to-text-LLM-Whisper-medium - This folder contains Speech-to-text conversion python and notebook file using pretrained Whisper medium sized model.
 speech-to-text-GoogleWebSpeech_API - This folder contains Speech-to-text conversion notebook file using pretrained Google Web Speech API.
+text-to-speech - This folder contains notebook file which shows how to convert speech to text using GTTS package in python.
