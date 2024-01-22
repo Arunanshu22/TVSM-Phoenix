@@ -1,1 +1,4 @@
 1) Plan an LLM usage along with google speech to text. 
+
+Speech-to-text-LLM-Whisper-medium - This folder contains Speech-to-text conversion python and notebook file using pretrained Whisper medium sized model.
+speech-to-text-GoogleWebSpeech_API - This folder contains Speech-to-text conversion notebook file using pretrained Google Web Speech API.
