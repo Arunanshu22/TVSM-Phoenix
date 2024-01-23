@@ -1,1 +1,1 @@
-It is a read me file
+above note book contain two models svm and factor analysis
