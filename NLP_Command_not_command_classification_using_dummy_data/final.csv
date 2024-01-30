@@ -1,0 +1,111 @@
+Command,Response,Label
+Start the bike,The bike engine starts.,1
+Stop the bike,The bike comes to a stop.,1
+Accelerate,The bike accelerates smoothly.,1
+Decelerate,The bike slows down.,1
+Turn left indicator,The bike turns left indicator on for 10 sec.,1
+Turn right indicator,The bike turns right indicatoron for 10 sec .,1
+Horn,The horn sounds loudly.,1
+Turn on headlights,The bike's headlights turn on.,1
+Turn off headlights,The bike's headlights turn off.,1
+Check fuel level,The fuel level is sufficient.,1
+Check speed,The current speed is [speed].,1
+Check mileage,The current mileage is [mileage].,1
+Change gear to 1,The bike shifts to first gear.,1
+Change gear to 2,The bike shifts to second gear.,1
+Change gear to 3,The bike shifts to third gear.,1
+Change gear to 4,The bike shifts to fourth gear.,1
+Change gear to 5,The bike shifts to fifth gear.,1
+Change gear to neutral,The bike is in neutral.,1
+Brake,The bike comes to a sudden stop.,1
+Check tire pressure,The tire pressure is within the recommended range.,1
+Activate turn signals,The turn signals start blinking.,1
+Deactivate turn signals,The turn signals stop blinking.,1
+Check engine status,The engine is running smoothly.,1
+Check battery status,The battery is in good condition.,1
+Check oil level,The oil level is within the recommended range.,1
+Overtake the vehicle in front,You safely overtake the vehicle in front.,1
+Pull over to the side of the road,The bike comes to a stop at the side of the road.,1
+Perform a U-turn,Both indicators of the bike is turned on for 10 sec.,1
+Navigate to [destination],You receive turn-by-turn directions to [destination].,1
+Check weather forecast,The weather forecast is [weather].,1
+Play music,Your favorite music starts playing.,1
+Answer phone call,You answer the incoming phone call.,1
+Reject phone call,You reject the incoming phone call.,1
+Send a text message to [contact],You send a text message to [contact].,1
+Check time,The current time is [time].,1
+Take a scenic route,The navigation suggests a scenic route.,1
+Activate cruise control,The bike maintains a constant speed using cruise control.,1
+Deactivate cruise control,Cruise control is turned off.,1
+Emergency stop,The bike comes to an emergency stop.,1
+Check for nearby gas stations,The nearest gas station is [location].,1
+Record a voice memo,You start recording a voice memo.,1
+Activate parking mode,The bike enters parking mode.,1
+Deactivate parking mode,Parking mode is turned off.,1
+Perform a wheelie,Performing wheelies is unsafe and against traffic rules.,1
+Perform a stoppie,Performing stoppies is unsafe and against traffic rules.,1
+Check for traffic updates,There are no traffic updates at the moment.,1
+Perform a burnout,Performing burnouts is unsafe and damages the tires.,1
+The weather is beautiful today.,Enjoy the sunny day!,0
+I love riding my bike in the park.,Cycling is a great way to stay active.,0
+Have you tried the new cafe downtown?,It's a cozy spot with delicious coffee.,0
+Learning a new language can be challenging.,But it's a rewarding experience.,0
+"My favorite book is ""To Kill a Mockingbird"" by Harper Lee.",What's your favorite book?,0
+Spaghetti bolognese is my go-to comfort food.,What's yours?,0
+The movie last night was fantastic.,What genre of movies do you enjoy?,0
+Did you catch the latest episode of the TV series?,I'm hooked on the storyline.,0
+Exploring new places is my passion.,What's your favorite travel destination?,0
+I just adopted a puppy.,Pets bring so much joy to our lives.,0
+The traffic was terrible this morning.,Commute times can be unpredictable.,0
+Have you ever tried skydiving?,It's an exhilarating experience.,0
+I'm attending a photography workshop next weekend.,Photography is a wonderful hobby.,0
+A healthy diet includes a variety of fruits and vegetables.,What's your favorite healthy snack?,0
+Listening to music helps me relax.,What's your favorite genre of music?,0
+I enjoy gardening in my free time.,It's a therapeutic activity.,0
+Coding is a valuable skill in today's world.,Do you have any favorite programming languages?,0
+The art exhibition showcased incredible talent.,Art has the power to inspire.,0
+I recently completed a marathon.,Running is a great way to stay fit.,0
+The concert last night had an amazing atmosphere.,Live music events are unforgettable.,0
+Did you catch the latest tech news?,Advancements in technology are fascinating.,0
+Cooking is a creative outlet for me.,I love experimenting with new recipes.,0
+I'm planning a beach vacation.,Relaxing by the ocean is pure bliss.,0
+The documentary on space exploration was mind-blowing.,The universe is full of wonders.,0
+Artificial intelligence is changing the world.,How do you feel about AI's impact on society?,0
+Learning to play a musical instrument can be challenging.,But it's incredibly rewarding.,0
+What's your favorite type of cuisine?,Food connects us to different cultures.,0
+I enjoy hiking in the mountains.,Nature has a calming effect on the mind.,0
+The latest fashion trends are intriguing.,Do you follow any fashion influencers?,0
+I'm fascinated by ancient history.,Learning about the past helps us understand the present.,0
+Yoga is a great way to stay flexible and reduce stress.,Have you tried any mindfulness practices?,0
+The stock market can be unpredictable.,Investing requires careful consideration.,0
+I love attending live theater performances.,Theater brings stories to life in a unique way.,0
+Volunteering at a local charity is fulfilling.,Contributing to the community is important.,0
+I recently started a book club.,Discussing books with others enhances the reading experience.,0
+The importance of environmental conservation cannot be overstated.,Every small effort counts.,0
+Learning to dance is on my bucket list.,Dancing is a joyful form of self-expression.,0
+Coffee or tea: which one is your go-to beverage?,Everyone has their favorite caffeinated drink.,0
+I find astronomy documentaries fascinating.,The vastness of the cosmos is awe-inspiring.,0
+I enjoy watching wildlife documentaries.,Nature is full of amazing creatures and behaviors.,0
+What's your favorite type of exercise?,Staying active is crucial for overall well-being.,0
+The concept of time travel is intriguing.,If you could time travel where would you go?,0
+Exploring different cultures through travel is a rewarding experience.,Have you visited any unique destinations?,0
+Learning a new dance style is on my to-do list.,Dancing is a great way to express oneself.,0
+I'm passionate about environmental sustainability.,Reducing our ecological footprint is essential.,0
+Social media connects people worldwide.,How do you use social media to stay connected?,0
+A hot cup of tea on a rainy day is pure comfort.,What's your favorite rainy-day beverage?,0
+I'm fascinated by quantum physics.,The world at the subatomic level is mind-boggling.,0
+I've recently taken up painting as a hobby.,Artistic expression can be therapeutic.,0
+Meditation helps me maintain mental clarity.,Do you practice any mindfulness techniques?,0
+Attending live music concerts is my favorite pastime.,The energy of a live performance is unparalleled.,0
+I'm participating in a community gardening project.,Growing our own food fosters a sense of community.,0
+Fashion trends are cyclical and ever-changing.,How would you describe your fashion style?,0
+I find learning about different languages intriguing.,Language is a gateway to understanding diverse cultures.,0
+I'm into DIY home decor projects.,Personalizing living spaces adds character.,0
+Engaging in team sports builds camaraderie.,What's your favorite team sport to play?,0
+I enjoy stargazing on clear nights.,The night sky holds countless wonders.,0
+Trying international cuisines is a culinary adventure.,What's the most exotic dish you've tried?,0
+Mindful breathing exercises help alleviate stress.,How do you manage stress in your daily life?,0
+I'm reading a thought-provoking philosophy book.,Philosophical discussions can be enriching.,0
+I'm fascinated by ancient architecture.,The history behind architectural marvels is captivating.,0
+Participating in a local charity run is on my agenda.,Supporting causes through events is impactful.,0
+I've started a collection of vintage vinyl records.,Music on vinyl has a timeless quality.,0
