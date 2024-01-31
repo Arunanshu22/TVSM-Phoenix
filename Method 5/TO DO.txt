@@ -1,0 +1,2 @@
+1) Take 1 word -> get df -> train all models -> take test sample -> predict on all models -> choose best
+2) Repeat that on all words -> collect seperate test files -> auto predict and choose best
