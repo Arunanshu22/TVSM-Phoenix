@@ -1,2 +1,3 @@
-1) Take 1 word -> get df -> train all models -> take test sample -> predict on all models -> choose best
-2) Repeat that on all words -> collect seperate test files -> auto predict and choose best
+1) When reducing feartures from 15000 to 7600 dont truncate
+2) Either increase 7600 to 15000 by mean padding 
+3) or see why 15000 on test data
