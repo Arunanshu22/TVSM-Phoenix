@@ -7,3 +7,4 @@ NLP_classification_Spam_not_Spam_demo - This model is a demo model showing how t
 GRU_NLP - This model is a demo model showing how to classify text into 4 different classes. It is basically doing multi class text classification. We need to modify the code according to our needs and we need to give our dataset.
 NLP_binary_class_classification - This folder contains code for spam and not spam classification which can be used for command and not command classification also.
 NLP_Command_not_command_classification_using_dummy_data - Here dummy data generated artificially is been used to classify whether the given text command is actually a bike command or not.
+Updated dataset for bike and non bike command - Generated and created updated dataset for bike and non bike command. Properly annoteted the labels.
