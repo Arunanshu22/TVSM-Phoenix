@@ -1,5 +1,3 @@
-1) When reducing feartures from 15000 to 7600 dont truncate
-2) Either increase 7600 to 15000 by mean padding 
-3) or see why 15000 on test data
-
-4) hehehe
+1) See why MFCC + Vector shape error happens
+2) Save the pronunciation models of each user and create a prediction table for each set of test files
+3) Identify models per word per user iterating what did till now
