@@ -8,3 +8,25 @@ GRU_NLP - This model is a demo model showing how to classify text into 4 differe
 NLP_binary_class_classification - This folder contains code for spam and not spam classification which can be used for command and not command classification also.
 NLP_Command_not_command_classification_using_dummy_data - Here dummy data generated artificially is been used to classify whether the given text command is actually a bike command or not.
 Updated dataset for bike and non bike command - Generated and created updated dataset for bike and non bike command. Properly annoteted the labels.
+
+
+2) Possible Classifications - 
+i) Update - 
+check
+perform
+cancel
+status display - how long till update
+
+ii) Local Bike - 
+Battery status - How long will battery last, When shoould I get battery charged, will battery be sufficent till X, is battery health ok, 
+Fuel status - How long will curr fuel last, Enough fuel available for next X km or X hrs, Fuel fillings log, 
+Tires - tire pressure balanced or not, 
+Greetings - greet users when vehicle starts, after identification of user, 
+Safety reminders - remind user to wear helmet, drive slow if too fast based on location, 
+
+iii) Cloud Oriented - 
+Weather API usage - check weather in X, how was weather in X, How the weather will be in X
+Traffic API usage - Fastest route to X, Broadest route to X, By when will I reach X, Add stops during my travel to X, 
+Notifications API - sync with phone, check for mail, check for ig, check for social media, check mail from XYZ, 
+Songs API - play XYZ by ABC, 
+
