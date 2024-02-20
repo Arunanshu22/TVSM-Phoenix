@@ -29,4 +29,5 @@ Weather API usage - check weather in X, how was weather in X, How the weather wi
 Traffic API usage - Fastest route to X, Broadest route to X, By when will I reach X, Add stops during my travel to X, 
 Notifications API - sync with phone, check for mail, check for ig, check for social media, check mail from XYZ, 
 Songs API - play XYZ by ABC, 
+News API - Play the latest news, What is the breaking news, Give me news about Cricket, Whats happening in India Politics, 
 
