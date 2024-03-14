@@ -1,0 +1,1 @@
+Here we demonstrated how to web scrap and use the google translator for translating any language to english.
