@@ -1,0 +1,313 @@
+Class,Subclass,SubclassCategory,Commands,Response,Label,Subclass_Label_Category
+Bike,Update,Cancel,Abort pending bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Abort pending bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Abort software update for bike,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel bike software update process,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel bike system update process,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel pending bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel scheduled bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel scheduled bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Halt bike firmware update process,Aborting please wait,1,0
+Bike,Update,Cancel,Halt bike system update procedure,Aborting please wait,1,0
+Bike,Update,Cancel,Halt bike system update process,Aborting please wait,1,0
+Bike,Update,Cancel,Stop bike firmware upgrade process,Aborting please wait,1,0
+Bike,Update,Cancel,Stop ongoing bike software upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Stop ongoing bike system upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate pending bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate pending bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Cease ongoing bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Cease bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Cease ongoing bike system upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Cease pending bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Cease pending bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Cease pending bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Cease scheduled bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Cease scheduled bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,End bike firmware update process,Aborting please wait,1,0
+Bike,Update,Cancel,End bike software update process,Aborting please wait,1,0
+Bike,Update,Cancel,End bike system update process,Aborting please wait,1,0
+Bike,Update,Cancel,Halt ongoing bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Halt ongoing bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Halt ongoing bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Halt pending bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Halt pending bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Halt pending bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Interrupt bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Interrupt bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Interrupt bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Interrupt ongoing bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Interrupt ongoing bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Interrupt ongoing bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Stop current bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Stop current bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Stop current bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate in-progress bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate in-progress bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate in-progress bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Discontinue bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Discontinue bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Discontinue bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate ongoing bike firmware upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate ongoing bike software upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate ongoing bike system upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate pending bike firmware upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate pending bike software upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Terminate pending bike system upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel current bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel current bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel current bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel ongoing bike firmware upgrade process,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel ongoing bike software upgrade process,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel ongoing bike system upgrade process,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel pending bike firmware upgrade process,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel pending bike software upgrade process,Aborting please wait,1,0
+Bike,Update,Cancel,Cancel pending bike system upgrade process,Aborting please wait,1,0
+Bike,Update,Cancel,Stop bike firmware update in progress,Aborting please wait,1,0
+Bike,Update,Cancel,Interrupt ongoing bike firmware upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Interrupt ongoing bike software upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Interrupt ongoing bike system upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Cease ongoing bike firmware upgrade process,Aborting please wait,1,0
+Bike,Update,Cancel,Cease ongoing bike software upgrade process,Aborting please wait,1,0
+Bike,Update,Cancel,Cease ongoing bike system upgrade process,Aborting please wait,1,0
+Bike,Update,Cancel,Cease scheduled bike firmware upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Cease scheduled bike software upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Cease scheduled bike system upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,End ongoing bike firmware upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,End ongoing bike software upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,End ongoing bike system upgrade,Aborting please wait,1,0
+Bike,Update,Cancel,Halt scheduled bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Halt scheduled bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Halt scheduled bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Scrap scheduled bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Scrap scheduled bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Scrap scheduled bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Postpone scheduled bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Postpone scheduled bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Postpone scheduled bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Drop scheduled bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Drop scheduled bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Drop scheduled bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Abandon scheduled bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Abandon scheduled bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Abandon scheduled bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Revoke scheduled bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Revoke scheduled bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Revoke scheduled bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Withdraw scheduled bike firmware update,Aborting please wait,1,0
+Bike,Update,Cancel,Withdraw scheduled bike software update,Aborting please wait,1,0
+Bike,Update,Cancel,Withdraw scheduled bike system update,Aborting please wait,1,0
+Bike,Update,Cancel,Repeal scheduled bike firmware update,Aborting please wait,1,0
+Bike,Update,Perform,Begin bike software update,Commencing software update process for your bike.,1,1
+Bike,Update,Perform,Start bike firmware upgrade,Initiating firmware upgrade process for your bike.,1,1
+Bike,Update,Perform,Execute bike software update,Executing software update for your bike.,1,1
+Bike,Update,Perform,Launch bike system update,Launching system update for your bike.,1,1
+Bike,Update,Perform,Perform bike firmware upgrade,Performing firmware upgrade for your bike.,1,1
+Bike,Update,Perform,Initiate bike software upgrade,Initiating software upgrade for your bike.,1,1
+Bike,Update,Perform,download latest software version,,1,1
+Bike,Update,Perform,download latest software/ frimware version,,1,1
+Bike,Update,Perform,Update bike firmware,Updating firmware for your bike.,1,1
+Bike,Update,Perform,Begin bike system upgrade,Commencing system upgrade for your bike.,1,1
+Bike,Update,Perform,Execute bike firmware update,Executing firmware update for your bike.,1,1
+Bike,Update,Perform,Start bike software update,Starting software update for your bike.,1,1
+Bike,Update,Perform,Initiate bike firmware upgrade,Initiating firmware upgrade for your bike.,1,1
+Bike,Update,Perform,Launch bike software upgrade,Launching software upgrade for your bike.,1,1
+Bike,Update,Perform,Perform bike system upgrade,Performing system upgrade for your bike.,1,1
+Bike,Update,Perform,Update bike software,Updating software for your bike.,1,1
+Bike,Update,Perform,Begin bike firmware update,Commencing firmware update for your bike.,1,1
+Bike,Update,Perform,Execute bike system upgrade,Executing system upgrade for your bike.,1,1
+Bike,Update,Perform,Start bike system update,Starting system update for your bike.,1,1
+Bike,Update,Perform,Initiate bike system upgrade,Initiating system upgrade for your bike.,1,1
+Bike,Update,Perform,Launch bike firmware update,Launching firmware update for your bike.,1,1
+Bike,Update,Perform,Perform bike software upgrade,Performing software upgrade for your bike.,1,1
+Bike,Update,Perform,Update bike system software,Updating system software for your bike.,1,1
+Bike,Update,Perform,Begin bike system software update,Commencing system software update for your bike.,1,1
+Bike,Update,Perform,Execute bike software system update,Executing software system update for your bike.,1,1
+Bike,Update,Perform,Start bike system software update,Starting system software update for your bike.,1,1
+Bike,Update,Perform,Initiate bike system software update,Initiating system software update for your bike.,1,1
+Bike,Update,Perform,Launch bike software system update,Launching software system update for your bike.,1,1
+Bike,Update,Perform,Perform bike firmware system update,Performing firmware system update for your bike.,1,1
+Bike,Update,Perform,Update bike system firmware,Updating system firmware for your bike.,1,1
+Bike,Update,Perform,Begin bike system firmware update,Commencing system firmware update for your bike.,1,1
+Bike,Update,Perform,Execute bike system firmware update,Executing system firmware update for your bike.,1,1
+Bike,Update,Perform,Start bike system firmware update,Starting system firmware update for your bike.,1,1
+Bike,Update,Perform,Initiate bike system firmware update,Initiating system firmware update for your bike.,1,1
+Bike,Update,Perform,Launch bike system firmware update,Launching system firmware update for your bike.,1,1
+Bike,Update,Perform,Perform bike software firmware update,Performing software firmware update for your bike.,1,1
+Bike,Update,Perform,Update bike firmware software,Updating firmware software for your bike.,1,1
+Bike,Update,Perform,Begin bike firmware software update,Commencing firmware software update for your bike.,1,1
+Bike,Update,Perform,Execute bike firmware software update,Executing firmware software update for your bike.,1,1
+Bike,Update,Perform,Start bike firmware software update,Starting firmware software update for your bike.,1,1
+Bike,Update,Perform,Initiate bike firmware software update,Initiating firmware software update for your bike.,1,1
+Bike,Update,Perform,Perform Update,Initiating firmware software update for your bike.,1,1
+Bike,Update,Perform,Launch bike firmware software update,Launching firmware software update for your bike.,1,1
+Bike,Update,Perform,Perform bike system software firmware update,Performing system software firmware update for your bike.,1,1
+Bike,Update,Perform,Update bike firmware system software,Updating firmware system software for your bike.,1,1
+Bike,Update,Perform,Begin bike firmware system software update,Commencing firmware system software update for your bike.,1,1
+Bike,Update,Perform,Execute bike firmware system software update,Executing firmware system software update for your bike.,1,1
+Bike,Update,Perform,Start bike firmware system software update,Starting firmware system software update for your bike.,1,1
+Bike,Update,Perform,Initiate bike firmware system software update,Initiating firmware system software update for your bike.,1,1
+Bike,Update,Perform,Launch bike firmware system software update,Launching firmware system software update for your bike.,1,1
+Bike,Update,Perform,Perform bike software system firmware update,Performing software system firmware update for your bike.,1,1
+Bike,Update,Perform,Update bike system firmware software,Updating system firmware software for your bike.,1,1
+Bike,Update,Perform,Begin bike system firmware software update,Commencing system firmware software update for your bike.,1,1
+Bike,Update,Perform,Execute bike system firmware software update,Executing system firmware software update for your bike.,1,1
+Bike,Update,Perform,Start bike system firmware software update,Starting system firmware software update for your bike.,1,1
+Bike,Update,Perform,Initiate bike system firmware software update,Initiating system firmware software update for your bike.,1,1
+Bike,Update,Perform,Launch bike system firmware software update,Launching system firmware software update for your bike.,1,1
+Bike,Update,Perform,Perform bike firmware software system update,Performing firmware software system update for your bike.,1,1
+Bike,Update,Perform,Update bike software system firmware,Updating software system firmware for your bike.,1,1
+Bike,Update,Perform,Begin bike software system firmware update,Commencing software system firmware update for your bike.,1,1
+Bike,Update,Perform,Execute bike software system firmware update,Executing software system firmware update for your bike.,1,1
+Bike,Update,Perform,Start bike software system firmware update,Starting software system firmware update for your bike.,1,1
+Bike,Update,Perform,Initiate bike software system firmware update,Initiating software system firmware update for your bike.,1,1
+Bike,Update,Perform,Launch bike software system firmware update,Launching software system firmware update for your bike.,1,1
+Bike,Update,Perform,Perform bike firmware system software update,Performing firmware system software update for your bike.,1,1
+Bike,Update,Perform,Update bike firmware software system,Updating firmware software system for your bike.,1,1
+Bike,Update,Perform,Begin bike firmware software system update,Commencing firmware software system update for your bike.,1,1
+Bike,Update,Perform,Execute bike firmware software system update,Executing firmware software system update for your bike.,1,1
+Bike,Update,Perform,Start bike firmware software system update,Starting firmware software system update for your bike.,1,1
+Bike,Update,Perform,Initiate bike firmware software system update,Initiating firmware software system update for your bike.,1,1
+Bike,Update,Perform,Launch bike firmware software system update,Launching firmware software system update for your bike.,1,1
+Bike,Update,Perform,Perform bike system firmware software update,Performing system firmware software update for your bike.,1,1
+Bike,Update,Perform,Update bike system software firmware,Updating system software firmware for your bike.,1,1
+Bike,Update,Perform,Begin bike system software firmware update,Commencing system software firmware update for your bike.,1,1
+Bike,Update,Perform,Execute bike system software firmware update,Executing system software firmware update for your bike.,1,1
+Bike,Update,Perform,Start bike system software firmware update,Starting system software firmware update for your bike.,1,1
+Bike,Update,Perform,Initiate bike system software firmware update,Initiating system software firmware update for your bike.,1,1
+Bike,Update,Perform,Launch bike system software firmware update,Launching system software firmware update for your bike.,1,1
+Bike,Update,Perform,Perform bike system firmware system update,Performing system firmware system update for your bike.,1,1
+Bike,Update,Perform,Update bike system firmware system,Updating system firmware system for your bike.,1,1
+Bike,Update,Perform,Begin bike system firmware system update,Commencing system firmware system update for your bike.,1,1
+Bike,Update,Perform,Execute bike system firmware system update,Executing system firmware system update for your bike.,1,1
+Bike,Update,Perform,Start bike system firmware system update,Starting system firmware system update for your bike.,1,1
+Bike,Update,Perform,Initiate bike system firmware system update,Initiating system firmware system update for your bike.,1,1
+Bike,Update,Perform,Launch bike system firmware system update,Launching system firmware system update for your bike.,1,1
+Bike,Update,Perform,Update bike firmware system firmware,Updating firmware system firmware for your bike.,1,1
+Bike,Update,Perform,Begin bike firmware system firmware update,Commencing firmware system firmware update for your bike.,1,1
+Bike,Update,Perform,Execute bike firmware system firmware update,Executing firmware system firmware update for your bike.,1,1
+Bike,Update,Perform,Start bike firmware system firmware update,Starting firmware system firmware update for your bike.,1,1
+Bike,Update,Perform,Initiate bike firmware system firmware update,Initiating firmware system firmware update for your bike.,1,1
+Bike,Update,Perform,Let me know last installed vechicle software/system firmware information,,1,1
+Bike,Update,Perform,Launch bike firmware system firmware update,Launching firmware system firmware update for your bike.,1,1
+Bike,Update,Perform,Perform bike system software system firmware update,Performing system software system firmware update for your bike.,1,1
+Bike,Update,Perform,Update bike system firmware software system,Updating system firmware software system for your bike.,1,1
+Bike,Update,Perform,Begin bike system firmware software system update,Commencing system firmware software system update for your bike.,1,1
+Bike,Update,Perform,Execute bike system firmware software system update,Executing system firmware software system update for your bike.,1,1
+Bike,Update,Perform,Start bike system firmware software system update,Starting system firmware software system update for your bike.,1,1
+Bike,Update,Perform,Initiate bike system firmware software system update,Initiating system firmware software system update for your bike.,1,1
+Bike,Update,Perform,Launch bike system firmware software system update,Launching system firmware software system update for your bike.,1,1
+Bike,Update,Perform,Perform bike system firmware system software update,Performing system firmware system software update for your bike.,1,1
+Bike,Update,Perform,Update bike system software firmware system,Updating system software firmware system for your bike.,1,1
+Bike,Update,Perform,Begin bike system software firmware system update,Commencing system software firmware system update for your bike.,1,1
+Bike,Update,Perform,Execute bike system software firmware system update,Executing system software firmware system update for your bike.,1,1
+Bike,Update,Check,"Are firmware updates automatic, or do I need to initiate them manually?",Checking for your request,1,2
+Bike,Update,Check,"Are firmware updates free, or are there associated costs?",Checking for your request,1,2
+Bike,Update,Check,Are firmware updates performed wirelessly or through a wired connection?,Checking for your request,1,2
+Bike,Update,Check,Are firmware updates region-specific or universally applicable?,Checking for your request,1,2
+Bike,Update,Check,Are firmware updates reversible?,Checking for your request,1,2
+Bike,Update,Check,Are there any indicators or warnings that prompt me to update the firmware?,Checking for your request,1,2
+Bike,Update,Check,Are there any known issues or risks associated with the latest update?,Checking for your request,1,2
+Bike,Update,Check,Are there any known issues with the latest firmware update?,Checking for your request,1,2
+Bike,Update,Check,Are there any precautions or requirements for installing updates?,Checking for your request,1,2
+Bike,Update,Check,Are there any recent updates available for my vehicle?,Checking for your request,1,2
+Bike,Update,Check,Are there specific requirements for the vehicle's battery during updates?,Checking for your request,1,2
+Bike,Update,Check,Are there support channels available if I encounter issues during an update?,Checking for your request,1,2
+Bike,Update,Check,Are there updates for the vehicle's navigation system?,Checking for your request,1,2
+Bike,Update,Check,"Are updates automatic, or do I need to initiate them manually?",Checking for your request,1,2
+Bike,Update,Check,Are updates dependent on the vehicle's connectivity to a network?,Checking for your request,1,2
+Bike,Update,Check,Are updates specific to certain components of the vehicle?,Checking for your request,1,2
+Bike,Update,Check,Can firmware updates be paused or canceled during installation?,Checking for your request,1,2
+Bike,Update,Check,Can I choose to skip an update if I'm satisfied with the current version?,Checking for your request,1,2
+Bike,Update,Check,Can I customize the update settings based on my preferences?,Checking for your request,1,2
+Bike,Update,Check,Can I initiate updates through a mobile app or online portal?,Checking for your request,1,2
+Bike,Update,Check,"Can I install firmware updates myself, or do I need professional assistance?",Checking for your request,1,2
+Bike,Update,Check,Can I opt-out of automatic firmware updates?,Checking for your request,1,2
+Bike,Update,Check,Can I receive alerts about critical updates that require immediate attention?,Checking for your request,1,2
+Bike,Update,Check,Can I request notifications for specific types of updates?,Checking for your request,1,2
+Bike,Update,Check,Can I review release notes before deciding to install an update?,Checking for your request,1,2
+Bike,Update,Check,Can I review release notes or update details before installation?,Checking for your request,1,2
+Bike,Update,Check,Can I roll back to the previous firmware version if needed?,Checking for your request,1,2
+Bike,Update,Check,Can I schedule firmware updates for a specific time?,Checking for your request,1,2
+Bike,Update,Check,Can I set preferences for automatic firmware updates?,Checking for your request,1,2
+Bike,Update,Check,what is validity of guest user ,Checking for your request,1,2
+Bike,Update,Check,Tell us the primary/secondray user name/phone number/details,Checking for your request,1,2
+Bike,Update,Check,"Can updates be performed wirelessly, or do I need to visit a service center?",Checking for your request,1,2
+Bike,Update,Check,show me current vehicle / component software version,Checking for your request,1,2
+Bike,Update,Check,check current tcu/bms version,Checking for your request,1,2
+Bike,Update,Check,Tell me my VIN/IMEI NUMBER,Checking for your request,1,2
+Bike,Update,Check,what is my IMEI/VIN number,Checking for your request,1,2
+Bike,Update,Check,check Flashing status/history ,Checking for your request,1,2
+Bike,Update,Check,Can updates be scheduled to occur during specific times?,Checking for your request,1,2
+Bike,Update,Check,Restart/Reset Update,Checking for your request,1,2
+Bike,Update,Check,Can you check if my vehicle's firmware is up to date?,Checking for your request,1,2
+Bike,Update,Check,Can you inform me about the latest firmware or software version?,Checking for your request,1,2
+Bike,Update,Check,Check for available firmware upgrades for bike,Checking for your request,1,2
+Bike,Update,Check,Check for available system updates for bike,Checking for your request,1,2
+Bike,Update,Check,Check for update,Checking for your request,1,2
+Bike,Update,Check,Check for bike firmware updates,Checking for your request,1,2
+Bike,Update,Check,How can I check the current firmware version on my vehicle?,Checking for your request,1,2
+Bike,Update,Check,How do I check if my vehicle's software is up-to-date?,Checking for your request,1,2
+Bike,Update,Check,How do I know if a firmware update is in progress?,Checking for your request,1,2
+Bike,Update,Check,How do I know if an update is recommended for my vehicle model?,Checking for your request,1,2
+Bike,Update,Check,How do I troubleshoot any issues that may arise during the update?,Checking for your request,1,2
+Bike,Update,Check,How does the vehicle behave if I delay installing a firmware update?,Checking for your request,1,2
+Bike,Update,Check,How does the vehicle handle updates when in use or parked?,Checking for your request,1,2
+Bike,Update,Check,How long does it take to install a firmware update?,Checking for your request,1,2
+Bike,Update,Check,How long does it typically take to complete a software update?,Checking for your request,1,2
+Bike,Update,Check,How often are firmware updates released?,Checking for your request,1,2
+Bike,Update,Check,How often should I expect software updates for my vehicle?,Checking for your request,1,2
+Bike,Update,Check,"Is it necessary to install every firmware update, or are some optional?",Checking for your request,1,2
+Bike,Update,Check,Is there a history log that shows previous updates and changes?,Checking for your request,1,2
+Bike,Update,Check,Is there a limit to the number of updates the vehicle can receive?,Checking for your request,1,2
+Bike,Update,Check,Is there a new firmware update available for my vehicle?,Checking for your request,1,2
+Bike,Update,Check,Is there a notification system for alerting me about available updates?,Checking for your request,1,2
+Bike,Update,Check,Is there a notification system for upcoming firmware updates?,Checking for your request,1,2
+Bike,Update,Check,Is there a recommended frequency for checking and installing updates?,Checking for your request,1,2
+Bike,Update,Check,Is there a schedule for regular updates for my vehicle?,Checking for your request,1,2
+Bike,Update,Check,Is there a warranty or support for firmware-related issues?,Checking for your request,1,2
+Bike,Update,Check,Is there an option to roll back to a previous software version?,Checking for your request,1,2
+Bike,Update,Check,Search for bike system upgrades,Checking for your request,1,2
+Bike,Update,Check,Search for system upgrades for bike,Checking for your request,1,2
+Bike,Update,Check,Verify bike software updates,Checking for your request,1,2
+Bike,Update,Check,Verify pending bike system updates,Checking for your request,1,2
+Bike,Update,Check,What happens if there's a power outage during a firmware update?,Checking for your request,1,2
+Bike,Update,Check,What improvements or new features come with the latest firmware update?,Checking for your request,1,2
+Bike,Update,Check,What new features or improvements come with the latest update?,Checking for your request,1,2
+Bike,Update,Check,What precautions should I take before installing a firmware update?,Checking for your request,1,2
+Bike,Update,Check,What security measures are in place during the update process?,Checking for your request,1,2
+Bike,Update,Check,What steps should I follow to install an available update?,Checking for your request,1,2
+Bike,Update,Check,Check for the latest firmware version.,Checking for your request,1,2
+Bike,Update,Check,Check for software upgrades for my electric bike.,Checking for your request,1,2
+Bike,Update,Check,Start the update process for my bike's firmware.,Checking for your request,1,2
+Bike,Update,Check,Begin the software update procedure for my electric vehicle.,Checking for your request,1,2
+Bike,Update,Check,Is my bike eligible for the latest firmware update?,Checking for your request,1,2
+Bike,Update,Check,Can you verify if there are any pending firmware updates?,Checking for your request,1,2
+Bike,Update,Check,Any news on software enhancements for my electric bike?,Checking for your request,1,2
+Bike,Update,Check,Can you initiate a search for firmware upgrades for my vehicle?,Checking for your request,1,2
+Bike,Update,Check,Explore available system updates for my electric two-wheeler.,Checking for your request,1,2
+Bike,Update,Check,Can you confirm the status of recent software updates?,Checking for your request,1,2
+Bike,Update,Check,Check for firmware enhancements for my electric bike.,Checking for your request,1,2
+Bike,Update,Check,Investigate potential firmware updates for my vehicle.,Checking for your request,1,2
+Bike,Update,Check,Review the status of pending system upgrades for my electric bike.,Checking for your request,1,2
+Bike,Update,Check,Check for any pending updates for my electric bike's software.,Checking for your request,1,2
+Bike,Update,Check,Explore options for improving my electric vehicle's firmware.,Checking for your request,1,2
+Bike,Update,Check,Can you provide details on the latest software improvements?,Checking for your request,1,2
+Bike,Update,Check,Investigate if there are any recent firmware enhancements available.,Checking for your request,1,2
+Bike,Update,Check,Is there a process to install the latest firmware on my electric bike?,Checking for your request,1,2
+Bike,Update,Check,Verify if there are any updates available for my bike's operating system.,Checking for your request,1,2
+Bike,Update,Check,Can you search for the most recent firmware updates for my electric two-wheeler?,Checking for your request,1,2
+Bike,Update,Check,Request information on firmware version compatibility.,Checking for your request,1,2
+Bike,Update,Check,Inquire about the frequency of software updates.,Checking for your request,1,2
+Bike,Update,Check,Check for firmware patches for my electric bike.,Checking for your request,1,2
+Bike,Update,Check,Investigate potential software enhancements for my vehicle.,Checking for your request,1,2
+Bike,Update,Check,Explore options for optimizing my bike's firmware.,Checking for your request,1,2
+Bike,Update,Check,Can you provide insights into upcoming software updates?,Checking for your request,1,2
+Bike,Update,Check,Search for firmware upgrades tailored to my electric two-wheeler.,Checking for your request,1,2
+Bike,Update,Check,Discover if there are any new features in the latest firmware.,Checking for your request,1,2
+Bike,Update,Check,Look into firmware update schedules for my electric bike.,Checking for your request,1,2
+Bike,Update,Check,Verify the compatibility of the latest software with my vehicle.,Checking for your request,1,2
+Bike,Update,Check,Find out if there are any performance improvements in the latest update.,Checking for your request,1,2
+Bike,Update,Check,Check if there are any security patches included in recent firmware updates.,Checking for your request,1,2
+Bike,Update,Check,Inquire about the process for manually triggering firmware updates.,Checking for your request,1,2

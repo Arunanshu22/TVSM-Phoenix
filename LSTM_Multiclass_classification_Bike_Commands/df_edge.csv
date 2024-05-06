@@ -1,0 +1,431 @@
+Class,Subclass,SubclassCategory,Commands,Response,Label,Subclass_Label_Category
+Bike,Edge,Battery/Fuel,What is my current battery level?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,How much range do I have left on my battery?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,When was the last time my battery was charged?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,How long until my battery is fully charged?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,How long should I charge my vehicle for a sufficient range?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,What's the charging status right now?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,Can you provide a breakdown of energy consumption for my recent rides?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,Can I receive notifications when my battery needs to be replaced or serviced?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,Is there an option to track the historical performance of my battery over time?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,Can I set reminders for regular battery health checkups or diagnostics?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,Can I access detailed statistics on battery usage and efficiency?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,Is there a feature to adjust power settings to conserve battery on long rides?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,How can I assess the impact of my riding style on battery longevity?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,Can I view a forecast of my battery's expected performance for upcoming rides?,Updating please wait,1,0
+Bike,Edge,Battery/Fuel,How much battery life do I have left?,You currently have [percentage]% battery life remaining.,1,0
+Bike,Edge,Battery/Fuel,Can you estimate my remaining range?,Your estimated remaining range is [range] miles/kilometers.,1,0
+Bike,Edge,Battery/Fuel,When was my battery last charged?,Your battery was last charged on [date].,1,0
+Bike,Edge,Battery/Fuel,How long will it take to fully charge my battery?,It will take approximately [time] to fully charge your battery.,1,0
+Bike,Edge,Battery/Fuel,Is it safe to start a trip with my current battery level?,"Yes, it's safe to start your trip with your current battery level.",1,0
+Bike,Edge,Battery/Fuel,What's the average range I get on a full charge?,The average range on a full charge is [range] miles/kilometers.,1,0
+Bike,Edge,Battery/Fuel,How long should I charge my vehicle for sufficient range?,Charge your vehicle for approximately [time] for sufficient range.,1,0
+Bike,Edge,Battery/Fuel,What's the current charging status?,The current charging status is [status].,1,0
+Bike,Edge,Battery/Fuel,What's the optimal battery level for long-term health?,The optimal battery level for long-term health is between [range]% and [range]%.,1,0
+Bike,Edge,Battery/Fuel,How does my battery level impact overall vehicle performance?,Your battery level affects overall vehicle performance; higher levels provide better performance.,1,0
+Bike,Edge,Battery/Fuel,What's the expected lifespan of my vehicle's battery?,The expected lifespan of your vehicle's battery is approximately [years].,1,0
+Bike,Edge,Battery/Fuel,How do I interpret the battery health indicator?,The battery health indicator shows the current health of your battery; [explanation].,1,0
+Bike,Edge,Battery/Fuel,Can you recommend energy-efficient driving tips?,"Yes, I can recommend energy-efficient driving tips; [tips].",1,0
+Bike,Edge,Battery/Fuel,Can I get a detailed report on my battery usage history?,"Yes, you can get a detailed report on your battery usage history.",1,0
+Bike,Edge,Battery/Fuel,Can you provide an estimate of how far I can travel with my current battery level?,"Sure, I'll estimate the distance you can travel based on your current battery level.",1,0
+Bike,Edge,Battery/Fuel,How does my battery's health impact my bike's performance?,Your battery's health affects your bike's performance; I'll explain how.,1,0
+Bike,Edge,Battery/Fuel,Are there any recommended maintenance tasks for preserving battery life?,There are maintenance tasks to preserve battery life; I'll list them for you.,1,0
+Bike,Edge,Battery/Fuel,Are there any energy-saving modes or settings I can enable?,"Yes, there are energy-saving modes and settings; I'll show you how to enable them.",1,0
+Bike,Edge,Battery/Fuel,Can I check the history of my battery's charging cycles?,"Yes, you can check your battery's charging cycle history; I'll show you how.",1,0
+Bike,Edge,Battery/Fuel,Is there a way to analyze my riding habits and their impact on battery life?,"Yes, you can analyze your riding habits and their impact on battery life; I'll explain how.",1,0
+Bike,Edge,Battery/Fuel,Can I set preferences for charging thresholds to balance battery health and range?,"Yes, you can set preferences for charging thresholds; I'll guide you on how to do it.",1,0
+Bike,Edge,Battery/Fuel,How does battery degradation vary based on different riding conditions?,Battery degradation varies based on riding conditions; I'll explain the differences.,1,0
+Bike,Edge,Battery/Fuel,"How many charging cycles has my battery gone through, and how does that compare to its expected lifespan?",Your battery has gone through [number] charging cycles; I'll compare it to the expected lifespan.,1,0
+Bike,Edge,Battery/Fuel,Can you provide insights into battery degradation over time?,"Yes, I can provide insights into how your battery degrades over time.",1,0
+Bike,Edge,Battery/Fuel,Can you analyze my recent battery usage trends?,"Yes, I can analyze your recent battery usage trends to provide insights.",1,0
+Bike,Edge,Battery/Fuel,How can I assess the health of my battery?,I'll provide you with methods to assess the health of your battery accurately.,1,0
+Bike,Edge,Battery/Fuel,Can I optimize my driving habits to conserve battery?,"Yes, optimizing your driving habits can help conserve battery; I'll provide tips.",1,0
+Bike,Edge,Battery/Fuel,Is there an eco mode that optimizes battery usage?,"Yes, there's an eco mode that optimizes battery usage for extended range.",1,0
+Bike,Edge,Battery/Fuel,How do I recalibrate my battery for accurate range estimation?,I'll guide you through the process of recalibrating your battery for accurate range estimation.,1,0
+Bike,Edge,Battery/Fuel,Can you recommend a charging strategy for long-term battery health?,"Yes, I'll recommend a charging strategy to optimize long-term battery health.",1,0
+Bike,Edge,Battery/Fuel,How does my driving speed affect battery consumption?,Driving speed has a significant impact on battery consumption; I'll explain the correlation.,1,0
+Bike,Edge,Battery/Fuel,Can you analyze my recent battery performance to identify any anomalies?,"Yes, I can analyze your recent battery performance and identify any anomalies.",1,0
+Bike,Edge,Battery/Fuel,Can you recommend a battery maintenance schedule for optimal performance?,"Certainly, I'll recommend a battery maintenance schedule to ensure optimal performance and longevity.",1,0
+Bike,Edge,Battery/Fuel,Check current Fuel Level,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Refuel,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Efficiency Report,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Reserve Fuel Activation,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Deactivate Reserve Fuel,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Tank Lock,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Unlock Fuel Tank,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Consumption History,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Low Fuel Warning,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Gauge Calibration,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Tank Ventilation,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Emergency Fuel Cut-Off,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Pump Activation,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Injector Test,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel System Diagnostics,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Cap Status,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Additive Usage,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Filter Check,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Pressure Check,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Tank Capacity,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Tank Draining,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Level Sensor Test,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Injection Timing,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Line Inspection,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Pump Relay Test,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel Pump Shutdown,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Fuel System Flush,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How much fuel do I have left?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,When was the last time I refueled?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is it time to refuel?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What is my current fuel level?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How far can I go on the remaining fuel?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Can you check the fuel gauge for me?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Any alerts regarding low fuel?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How is my fuel efficiency?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Did I leave the fuel cap open?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is there a fuel leak alert?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,When is the next scheduled refueling?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is there a preferred fuel type for my vehicle?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the trend in my fuel consumption?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Any tips for improving fuel efficiency?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How often should I check the fuel level?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is there a preferred time for refueling?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Can you suggest fuel-saving driving habits?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How does my current fuel level compare to the average?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the recommended fuel for my vehicle model?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Should I consider a fuel system check?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Any maintenance tips to optimize fuel performance?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Can you remind me to refuel when the level is low?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is the fuel tank properly sealed?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the historical trend in my fuel expenses?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Check battery charge.,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the current battery status?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How much charge is remaining in the battery?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is the battery fully charged?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Check battery health.,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is the battery in good condition?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the battery temperature?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How efficient is the battery usage?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Check battery voltage.,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the voltage of the battery?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is there any battery degradation?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How long can I ride with the current battery charge?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Any alerts about low battery?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the average energy consumption?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Are there any tips to improve battery life?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Check battery efficiency.,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How often should I monitor the battery?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is there a recommended charging schedule?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Any recommendations for extending battery lifespan?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the historical trend in battery usage?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Can you provide details on the battery's charging history?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How quickly does the battery drain?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the estimated range based on the current battery charge?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is there a feature to optimize battery usage?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Any suggestions for preserving battery health during storage?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Can I set up notifications for low battery levels?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is there a way to remotely monitor battery status?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Can you recommend a charging schedule for optimal performance?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the average lifespan of the battery?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Are there any software updates to improve battery efficiency?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,How does battery performance vary in different riding conditions?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is there a feature to automatically adjust power usage based on riding habits?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Can I view real-time battery usage metrics?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Are there any eco-friendly charging options available?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,What's the best practice for storing the battery when not in use?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Can I receive alerts for abnormal battery behavior?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Is there a feature to optimize charging based on electricity rates?,Processing your fuel related command please wait,1,0
+Bike,Edge,Battery/Fuel,Can I set up reminders for regular battery maintenance?,Processing your fuel related command please wait,1,0
+Bike,Edge,Tires/Tyres,Check the current Tire Pressure,I'll check the tire/tyre pressure for you.,1,1
+Bike,Edge,Tires/Tyres,Inflate Tires/Tyres,I'll inflate the Tires/Tyres to the recommended pressure.,1,1
+Bike,Edge,Tires/Tyres,Deflate Tires/Tyres,I'll deflate the Tires/Tyres if necessary.,1,1
+Bike,Edge,Tires/Tyres,Rotate Tires/Tyres,I'll rotate the Tires/Tyres to ensure even wear.,1,1
+Bike,Edge,Tires/Tyres,Align Tires/Tyres,I'll check and adjust the tire/tyre alignment.,1,1
+Bike,Edge,Tires/Tyres,Check Tread Depth,I'll measure the tread depth of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Inspect Tire Condition,I'll examine the overall condition of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Change Tires/Tyres,I'll replace the Tires/Tyres if needed.,1,1
+Bike,Edge,Tires/Tyres,Balance Tires/Tyres,I'll balance the Tires/Tyres for smooth operation.,1,1
+Bike,Edge,Tires/Tyres,Check Tire Temperature,I'll monitor the tire/tyre temperature for any anomalies.,1,1
+Bike,Edge,Tires/Tyres,Check Tire Wear,I'll inspect the Tires/Tyres for signs of wear.,1,1
+Bike,Edge,Tires/Tyres,Monitor Tire Health,I'll keep an eye on the overall health of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Install Winter Tires/Tyres,I'll install winter Tires/Tyres if required for colder weather.,1,1
+Bike,Edge,Tires/Tyres,Swap Front and Rear Tires/Tyres,I'll swap the front and rear Tires/Tyres for even wear.,1,1
+Bike,Edge,Tires/Tyres,Check Spare Tire Condition,I'll inspect the spare tire/tyre to ensure it's in good condition.,1,1
+Bike,Edge,Tires/Tyres,Assess Tire Damage,I'll assess any damage to the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Adjust Tire Position,I'll adjust the tire/tyre position as needed.,1,1
+Bike,Edge,Tires/Tyres,Install Tubeless Tires/Tyres,I'll install tubeless Tires/Tyres if required.,1,1
+Bike,Edge,Tires/Tyres,Inspect Valve Stems,I'll inspect the valve stems for any issues.,1,1
+Bike,Edge,Tires/Tyres,Verify Tire Size,I'll verify that the Tires/Tyres match the correct size.,1,1
+Bike,Edge,Tires/Tyres,Check for Punctures,I'll check for any punctures in the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Evaluate Tire Traction,I'll evaluate the traction of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Assess Tire Age,I'll assess the age of the Tires/Tyres for replacement.,1,1
+Bike,Edge,Tires/Tyres,Verify Tire Manufacturer,I'll confirm the manufacturer of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Inspect Tire Sidewalls,I'll inspect the sidewalls of the Tires/Tyres for damage.,1,1
+Bike,Edge,Tires/Tyres,Check Tire Load Capacity,I'll verify the load capacity of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Inspect Tire Rim Condition,I'll inspect the condition of the tire/tyre rims.,1,1
+Bike,Edge,Tires/Tyres,Assess Tire Tread Pattern,I'll assess the tread pattern for optimal performance.,1,1
+Bike,Edge,Tires/Tyres,Verify Recommended Tire Pressure,I'll provide you with the recommended tire/tyre pressure.,1,1
+Bike,Edge,Tires/Tyres,Install Run-Flat Tires/Tyres,I'll install run-flat Tires/Tyres if needed.,1,1
+Bike,Edge,Tires/Tyres,How is the tire/tyre pressure?,The tire/tyre pressure is within the recommended range.,1,1
+Bike,Edge,Tires/Tyres,Are all the Tires/Tyres properly inflated?,"Yes, all Tires/Tyres are properly inflated.",1,1
+Bike,Edge,Tires/Tyres,Can you check if there are any punctures in the Tires/Tyres?,There are no punctures found in the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,When was the last time the tire/tyre pressure was checked?,The tire/tyre pressure was last checked [date].,1,1
+Bike,Edge,Tires/Tyres,Are the Tires/Tyres in good condition?,"Yes, the Tires/Tyres are in good condition.",1,1
+Bike,Edge,Tires/Tyres,Have the Tires/Tyres been rotated recently?,"Yes, the Tires/Tyres have been rotated recently.",1,1
+Bike,Edge,Tires/Tyres,Is there any abnormal wear on the Tires/Tyres?,"No, there is no abnormal wear on the Tires/Tyres.",1,1
+Bike,Edge,Tires/Tyres,Are the tire/tyre treads still in good shape?,"Yes, the tire/tyre treads are in good shape.",1,1
+Bike,Edge,Tires/Tyres,Can you verify the tire/tyre alignment?,The tire/tyre alignment is within specifications.,1,1
+Bike,Edge,Tires/Tyres,Do I need to consider replacing any of the Tires/Tyres?,"No, all Tires/Tyres are in good condition and don't need replacement.",1,1
+Bike,Edge,Tires/Tyres,Are the Tires/Tyres suitable for the current weather conditions?,"Yes, the Tires/Tyres are suitable for the current weather conditions.",1,1
+Bike,Edge,Tires/Tyres,Have the Tires/Tyres been balanced recently?,"Yes, the Tires/Tyres have been balanced recently.",1,1
+Bike,Edge,Tires/Tyres,"Is there a spare tire/tyre, and is it in good condition?","Yes, there is a spare tire/tyre and it's in good condition.",1,1
+Bike,Edge,Tires/Tyres,When was the last time the tire/tyre pressure warning light came on?,The tire/tyre pressure warning light last came on [date].,1,1
+Bike,Edge,Tires/Tyres,Can you provide information on the tire/tyre warranty?,The tire/tyre warranty provides coverage for [details].,1,1
+Bike,Edge,Tires/Tyres,Are the Tires/Tyres compatible with the vehicle specifications?,"Yes, the Tires/Tyres are compatible with the vehicle specifications.",1,1
+Bike,Edge,Tires/Tyres,Are there any upcoming tire/tyre maintenance tasks?,No upcoming tire/tyre maintenance tasks are scheduled.,1,1
+Bike,Edge,Tires/Tyres,What is the recommended tire/tyre pressure for my vehicle?,The recommended tire/tyre pressure for your vehicle is [pressure].,1,1
+Bike,Edge,Tires/Tyres,How often should I check the tire/tyre pressure?,It's recommended to check the tire/tyre pressure once a month.,1,1
+Bike,Edge,Tires/Tyres,Do I need winter Tires/Tyres for colder weather?,Winter Tires/Tyres are recommended for colder weather conditions.,1,1
+Bike,Edge,Tires/Tyres,Are there any tire/tyre-related alerts or messages on the dashboard?,"No, there are no tire/tyre-related alerts on the dashboard.",1,1
+Bike,Edge,Tires/Tyres,Can you recommend a reliable tire/tyre service center?,[Recommendation] is a reliable tire/tyre service center.,1,1
+Bike,Edge,Tires/Tyres,Is there a tire/tyre rotation schedule I should follow?,"Yes, tire/tyre rotation is recommended every 6,000 to 8,000 miles.",1,1
+Bike,Edge,Tires/Tyres,Are the Tires/Tyres suitable for off-road driving?,"Yes, the Tires/Tyres are suitable for off-road driving.",1,1
+Bike,Edge,Tires/Tyres,Do I need to replace all Tires/Tyres simultaneously?,It depends on the condition of the Tires/Tyres. I'll assess whether they need to be replaced together or individually.,1,1
+Bike,Edge,Tires/Tyres,Can you check the tire/tyre tread depth for me?,I'll measure the tire/tyre tread depth for you.,1,1
+Bike,Edge,Tires/Tyres,What type of Tires/Tyres are currently installed on the vehicle?,[Type of Tires/Tyres] are currently installed on the vehicle.,1,1
+Bike,Edge,Tires/Tyres,Is there a specific brand of Tires/Tyres recommended for this vehicle?,[Recommended brand] is a suitable choice for this vehicle.,1,1
+Bike,Edge,Tires/Tyres,How do I know if my Tires/Tyres need balancing?,Uneven wear or vibrations while driving can indicate the need for tire/tyre balancing.,1,1
+Bike,Edge,Tires/Tyres,Can you provide tips for maintaining optimal tire/tyre health?,"Sure! Regularly check tire/tyre pressure, rotate Tires/Tyres, ensure proper alignment, and avoid overloading the vehicle. Drive cautiously to minimize tire/tyre wear.",1,1
+Bike,Edge,Tires/Tyres,Monitor tire/tyre tread depth,I'll monitor the tread depth of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Assess tire/tyre wear and tear,I'll assess the wear and tear on the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Check tire/tyre alignment,I'll check and adjust the tire/tyre alignment.,1,1
+Bike,Edge,Tires/Tyres,Verify tire/tyre rotation status,I'll verify the status of tire/tyre rotation.,1,1
+Bike,Edge,Tires/Tyres,Evaluate tire/tyre condition,I'll evaluate the overall condition of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Monitor tire/tyre balance,I'll monitor the balance of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Assess tire/tyre inflation level,I'll assess the inflation level of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Verify tire/tyre puncture status,I'll verify the puncture status of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Check tire/tyre sidewall cracks,I'll check for cracks on the tire/tyre sidewalls.,1,1
+Bike,Edge,Tires/Tyres,Assess tire/tyre grip and traction,I'll assess the grip and traction of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Monitor tire/tyre valve condition,I'll monitor the condition of the tire/tyre valves.,1,1
+Bike,Edge,Tires/Tyres,Verify tire/tyre load capacity,I'll verify the load capacity of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Check tire/tyre age and lifespan,I'll check the age and lifespan of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Inspect tire/tyre for debris,I'll inspect the Tires/Tyres for any debris.,1,1
+Bike,Edge,Tires/Tyres,Monitor tire/tyre for bulges or bubbles,I'll monitor the Tires/Tyres for bulges or bubbles.,1,1
+Bike,Edge,Tires/Tyres,Assess tire/tyre for uneven wear patterns,I'll assess the Tires/Tyres for uneven wear patterns.,1,1
+Bike,Edge,Tires/Tyres,Check tire/tyre for signs of dry rot,I'll check for signs of dry rot on the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Evaluate tire/tyre pressure sensors,I'll evaluate the pressure sensors of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Check tire/tyre temperature sensors,I'll check the temperature sensors of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Verify tire/tyre condition indicators,I'll verify the condition indicators of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Assess tire/tyre sidewall integrity,I'll assess the integrity of the tire/tyre sidewalls.,1,1
+Bike,Edge,Tires/Tyres,Monitor tire/tyre wear indicators,I'll monitor the wear indicators of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Evaluate tire/tyre traction control,I'll evaluate the traction control of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Check tire/tyre pressure monitoring system (TPMS),I'll check the tire/tyre pressure monitoring system.,1,1
+Bike,Edge,Tires/Tyres,Assess tire/tyre air leakage detection,I'll assess the air leakage detection of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Verify tire/tyre speed rating,I'll verify the speed rating of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Monitor tire/tyre load index,I'll monitor the load index of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Evaluate tire/tyre puncture detection system,I'll evaluate the puncture detection system of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Check tire/tyre pressure warning system,I'll check the tire/tyre pressure warning system.,1,1
+Bike,Edge,Tires/Tyres,Assess tire/tyre treadwear rating,I'll assess the treadwear rating of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Verify tire/tyre sidewall markings,I'll verify the sidewall markings of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Monitor tire/tyre rolling resistance,I'll monitor the rolling resistance of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Check tire/tyre inflation pressure warning,I'll check the inflation pressure warning of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Assess tire/tyre grip on different road surfaces,I'll assess the grip of the Tires/Tyres on different road surfaces.,1,1
+Bike,Edge,Tires/Tyres,Verify tire/tyre size and specifications,I'll verify the size and specifications of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Evaluate tire/tyre performance in wet conditions,I'll evaluate the performance of the Tires/Tyres in wet conditions.,1,1
+Bike,Edge,Tires/Tyres,Check tire/tyre warranty coverage,I'll check the warranty coverage of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Evaluate tire/tyre alignment,I'll evaluate the alignment of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Check tire/tyre rotation schedule,I'll check the rotation schedule of the Tires/Tyres.,1,1
+Bike,Edge,Tires/Tyres,Monitor tire/tyre balancing,I'll monitor the balancing of the Tires/Tyres.,1,1
+Bike,Edge,Basic,Turn off the left indicator of the bike,Bike's left indicator is turned off.,1,2
+Bike,Edge,Basic,Turn off the right indicator of the bike,Bike's right indicator is turned off.,1,2
+Bike,Edge,Basic,Turn on the left indicator of the bike,Bike's left indicator is turned on.,1,2
+Bike,Edge,Basic,Turn on the right indicator of the bike,Bike's right indicator is turned on.,1,2
+Bike,Edge,Basic,Hey bike start now,bike will start,1,2
+Bike,Edge,Basic,Hey bike start yourself,bike will starts,1,2
+Bike,Edge,Basic,Hey bike stop yourself,bike will stops,1,2
+Bike,Edge,Basic,Hey bike take a uturn,bike will take a Uturn,1,2
+Bike,Edge,Basic,Hey bike stop now,bike will stop,1,2
+Bike,Edge,Basic,Start the bike,The bike engine starts.,1,2
+Bike,Edge,Basic,Stop the bike,The bike comes to a stop.,1,2
+Bike,Edge,Basic,Accelerate,The bike accelerates smoothly.,1,2
+Bike,Edge,Basic,Decelerate,The bike slows down.,1,2
+Bike,Edge,Basic,Turn left,The bike turns left.,1,2
+Bike,Edge,Basic,Turn right,The bike turns right.,1,2
+Bike,Edge,Basic,Horn,The horn sounds loudly.,1,2
+Bike,Edge,Basic,Turn on headlights,The bike's headlights turn on.,1,2
+Bike,Edge,Basic,Turn off headlights,The bike's headlights turn off.,1,2
+Bike,Edge,Battery/Fuel,Check fuel level,The fuel level is sufficient.,1,0
+Bike,Edge,Basic,Check speed,The current speed is [speed].,1,2
+Bike,Edge,Basic,Check mileage,The current mileage is [mileage].,1,2
+Bike,Edge,Basic,Change gear to 1,The bike shifts to first gear.,1,2
+Bike,Edge,Basic,Change gear to 2,The bike shifts to second gear.,1,2
+Bike,Edge,Basic,Change gear to 3,The bike shifts to third gear.,1,2
+Bike,Edge,Basic,Change gear to 4,The bike shifts to fourth gear.,1,2
+Bike,Edge,Basic,Change gear to 5,The bike shifts to fifth gear.,1,2
+Bike,Edge,Basic,Change gear to neutral,The bike is in neutral.,1,2
+Bike,Edge,Basic,Brake,The bike comes to a sudden stop.,1,2
+Bike,Edge,Tires/Tyres,Check tire/tyre pressure,The tire/tyre pressure is within the recommended range.,1,1
+Bike,Edge,Basic,Activate turn signals,The turn signals start blinking.,1,2
+Bike,Edge,Basic,Deactivate turn signals,The turn signals stop blinking.,1,2
+Bike,Edge,Basic,Check engine status,The engine is running smoothly.,1,2
+Bike,Edge,Battery/Fuel,Check battery status,The battery is in good condition.,1,0
+Bike,Edge,Battery/Fuel,Check oil level,The oil level is within the recommended range.,1,0
+Bike,Edge,Basic,Perform a U-turn,The bike makes a U-turn smoothly.,1,2
+Bike,Edge,Basic,Answer phone call,You answer the incoming phone call.,1,2
+Bike,Edge,Basic,Reject phone call,You reject the incoming phone call.,1,2
+Bike,Edge,Basic,Send a text message to [contact],You send a text message to [contact].,1,2
+Bike,Edge,Basic,Check time,The current time is [time].,1,2
+Bike,Edge,Basic,Start the vehicle,Starting the vehicle,1,2
+Bike,Edge,Basic,Activate cruise control,The bike maintains a constant speed using cruise control.,1,2
+Bike,Edge,Basic,Deactivate cruise control,Cruise control is turned off.,1,2
+Bike,Edge,Basic,Emergency stop,The bike comes to an emergency stop.,1,2
+Bike,Edge,Basic,Activate parking mode,The bike enters parking mode.,1,2
+Bike,Edge,Basic,Deactivate parking mode,Parking mode is turned off.,1,2
+Bike,Edge,Basic,Activate hazard lights,Indicate an emergency situation with hazard lights.,1,2
+Bike,Edge,Basic,Check brake fluid level,Ensure the brake fluid level is within the recommended range.,1,2
+Bike,Edge,Basic,Perform a quick stop,Apply brakes gently for a controlled and quick stop.,1,2
+Bike,Edge,Basic,Adjust handlebar height,Set the handlebar height for a comfortable riding posture.,1,2
+Bike,Edge,Basic,Check turn signal bulbs,Ensure all turn signal bulbs are functioning properly.,1,2
+Bike,Edge,Basic,Engage bike's security system,Activate the anti-theft system for security.,1,2
+Bike,Edge,Battery/Fuel,Check for oil leaks,Inspect the bike for any signs of oil leakage.,1,0
+Bike,Edge,Basic,Activate emergency flashers,Use emergency flashers in case of sudden stops or breakdowns.,1,2
+Bike,Edge,Basic,Check for loose bolts and nuts,Regularly inspect and tighten any loose bolts or nuts.,1,2
+Bike,Edge,Basic,Perform a bike safety inspection,Conduct a comprehensive safety check before every ride.,1,2
+Bike,Edge,Basic,Adjust rear suspension,Set the rear suspension for a smoother ride.,1,2
+Bike,Edge,Basic,Activate bike's GPS system,Use the built-in GPS for navigation and tracking.,1,2
+Bike,Edge,Basic,Check for loose spokes,Inspect and tighten any loose spokes in the wheel.,1,2
+Bike,Edge,Basic,Activate bike's anti-lock braking system (ABS),Utilize ABS for improved braking control.,1,2
+Bike,Edge,Basic,Perform a quick acceleration test,Ensure smooth and responsive acceleration.,1,2
+Bike,Edge,Basic,Activate bike's traction control system,Use traction control for stable rides on slippery surfaces.,1,2
+Bike,Edge,Basic,Check for worn-out brake pads,Replace brake pads if they show signs of wear.,1,2
+Bike,Edge,Basic,Activate bike's quick shifter,Use the quick shifter for seamless gear changes.,1,2
+Bike,Edge,Basic,Check for exhaust system leaks,Inspect the exhaust system for any leaks or damage.,1,2
+Bike,Edge,Basic,Check for loose chain tension,Adjust the chain tension to prevent slippage.,1,2
+Bike,Edge,Basic,Activate bike's launch control system,Utilize launch control for optimized acceleration.,1,2
+Bike,Edge,Basic,Check for tire/tyre wear and tear,Inspect Tires/Tyres regularly for signs of wear and replace if necessary.,1,2
+Bike,Edge,Basic,Activate bike's quick response throttle,Use quick response throttle for rapid acceleration.,1,2
+Bike,Edge,Basic,Check for loose handlebar grips,Ensure handlebar grips are securely in place.,1,2
+Bike,Edge,Basic,Adjust rear brake lever position,Optimize the rear brake lever position for comfort.,1,2
+Bike,Edge,Basic,Perform a chain lubrication,Apply chain lubricant for smoother operation.,1,2
+Bike,Edge,Basic,Activate bike's hill start assist,Use hill start assist for easy starts on inclines.,1,2
+Bike,Edge,Basic,Check for loose bolts in the exhaust,Inspect and tighten any loose bolts in the exhaust system.,1,2
+Bike,Edge,Basic,Activate bike's electronic suspension adjustment,Utilize electronic suspension adjustment for customized ride comfort.,1,2
+Bike,Edge,Tires/Tyres,Check for proper tire/tyre inflation,Ensure Tires/Tyres are adequately inflated for optimal performance.,1,1
+Bike,Edge,Basic,Engage the quick shifter on your bike.,Utilize quick shifter for seamless downshifting.,1,2
+Bike,Edge,Basic,Please check for proper throttle cable tension,Adjust throttle cable tension for precise control.,1,2
+Bike,Edge,Basic,Perform a brake pad inspection,Regularly inspect brake pads for thickness and wear.,1,2
+Bike,Edge,Basic,Activate bike's heated grips,Use heated grips for comfort in colder weather.,1,2
+Bike,Edge,Basic,Check for loose footpegs,Ensure footpegs are securely fastened.,1,2
+Bike,Edge,Tires/Tyres,Perform a bike wheel alignment check,Adjust wheel alignment for stability and even tire/tyre wear.,1,1
+Bike,Edge,Basic,Activate bike's anti-wheelie control system,Use anti-wheelie control for safe wheelie maneuvers.,1,2
+Bike,Edge,Basic,Check for loose bolts in the fairings,Inspect and tighten any loose bolts in the fairing.,1,2
+Bike,Edge,Basic,Perform a bike handlebar twist test,Check for smooth handlebar operation and responsiveness.,1,2
+Bike,Edge,Basic,Please activate bike's launch control for drag racing,Utilize launch control for optimized drag race starts.,1,2
+Bike,Edge,Basic,Check for proper coolant level,Ensure the coolant level is within the recommended range.,1,2
+Bike,Edge,Basic,Perform an emergency braking test,Practice emergency braking to improve response time.,1,2
+Bike,Edge,Basic,Activate bike's GPS tracking for security,Use GPS tracking for theft recovery.,1,2
+Bike,Edge,Basic,Check for proper clutch lever play,Adjust clutch lever play for optimal engagement.,1,2
+Bike,Edge,Basic,Please engage bike's suspension preload adjustment,Set suspension preload for varying loads or riding conditions.,1,2
+Bike,Edge,Basic,Activate rain mode,Use rain mode for safer riding in wet conditions.,1,2
+Bike,Edge,Basic,Check for proper throttle body synchronization,Adjust throttle body synchronization for smooth idling.,1,2
+Bike,Edge,Basic,Activate bike's dynamic traction control,Utilize dynamic traction control for enhanced grip.,1,2
+Bike,Edge,Basic,Check for loose brake fluid reservoir caps,Ensure brake fluid reservoir caps are tightly secured.,1,2
+Bike,Edge,Basic,Perform bike's sound check,Check exhaust sound for any unusual noises or irregularities.,1,2
+Bike,Edge,Basic,Activate bike's drag torque control,Use drag torque control for smoother downshifts.,1,2
+Bike,Edge,Tires/Tyres,Check for proper wheel spoke tension,Inspect and adjust wheel spoke tension for wheel integrity.,1,1
+Bike,Edge,Basic,Perform a bike quick turn test,Practice quick turns for agile handling in tight spaces.,1,2
+Bike,Edge,Basic,Activate bike's smart key system,Utilize smart key system for keyless ignition and security.,1,2
+Bike,Edge,Basic,Check for loose bolts in the sideview mirrors,Inspect and tighten any loose bolts in the mirrors.,1,2
+Bike,Edge,Basic,Activate bike's cruise control,Set your desired speed for hands-free cruising.,1,2
+Bike,Edge,Basic,Check for proper brake lever play,Adjust brake lever play for comfortable braking.,1,2
+Bike,Edge,Basic,Perform an emergency switchover,Switch to the reserve fuel tank in case of low fuel.,1,2
+Bike,Edge,Basic,Activate bike's quick response suspension,Utilize quick response suspension for adaptive damping.,1,2
+Bike,Edge,Basic,Check for loose bolts in the rear sprocket,Inspect and tighten any loose bolts in the rear sprocket.,1,2
+Bike,Edge,Basic,Perform a bike chain tension test,Ensure the chain tension meets manufacturer specifications.,1,2
+Bike,Edge,Basic,Activate bike's hill descent control,Use hill descent control for controlled descents on slopes.,1,2
+Bike,Edge,Basic,Check for proper radiator coolant mixture,Ensure the correct ratio of coolant to water in the radiator.,1,2
+Bike,Edge,Basic,Perform a bike brake bleeding,Remove air bubbles from the brake system for optimal braking performance.,1,2
+Bike,Edge,Basic,Activate bike's electronic quick shifter,Utilize electronic quick shifter for seamless gear changes.,1,2
+Bike,Edge,Basic,Check for loose bolts in the handlebar clamp,Inspect and tighten any loose bolts in the handlebar clamp.,1,2
+Bike,Edge,Basic,Perform a bike suspension rebound adjustment,Adjust suspension rebound for improved handling.,1,2
+Bike,Edge,Basic,Activate bike's dynamic engine braking control,Utilize dynamic engine braking control for smoother descents.,1,2
+Bike,Edge,Basic,Check for proper chain lubrication,Ensure the chain is adequately lubricated for longevity.,1,2
+Bike,Edge,Basic,Perform a bike throttle response test,Evaluate throttle response for optimal engine performance.,1,2
+Bike,Edge,Basic,Activate bike's ABS,Use cornering ABS for enhanced braking during turns.,1,2
+Bike,Edge,Tires/Tyres,Check for loose bolts in the swingarm pivot,Inspect and tighten any loose bolts in the swingarm pivot.,1,1
+Bike,Edge,Basic,Perform a bike spark plug inspection,Check spark plugs for signs of wear or fouling.,1,2
+Bike,Edge,Basic,Activate bike's eco mode,Utilize eco mode for fuel-efficient riding.,1,2
+Bike,Edge,Tires/Tyres,Check for proper front fork alignment,Ensure the front forks are aligned for stability.,1,1
+Bike,Edge,Tires/Tyres,Perform a bike fork seal inspection,Check fork seals for leaks or damage.,1,1
+Bike,Edge,Basic,Activate bike's traction control in wet conditions,Utilize traction control for safer riding on wet surfaces.,1,2
+Bike,Edge,Basic,Check for loose bolts in the footpeg mounts,Inspect and tighten any loose bolts in the footpeg mounts.,1,2
+Bike,Edge,Basic,Perform a bike frame alignment test,Ensure the frame is aligned for proper handling.,1,2
+Bike,Edge,Basic,Activate bike's anti-stall feature,Utilize anti-stall for smoother low-speed maneuvering.,1,2
+Bike,Edge,Tires/Tyres,Check for proper tire/tyre tread depth,Ensure tire/tyre treads meet legal and safety requirements.,1,1
+Bike,Edge,Basic,Perform a bike throttle body cleaning,Clean throttle bodies for improved engine efficiency.,1,2
+Bike,Edge,Basic,Activate bike's ride-by-wire throttle modes,Choose throttle modes for different riding scenarios.,1,2
+Bike,Edge,Basic,Check for loose bolts in the rear shock mount,Inspect and tighten any loose bolts in the rear shock mount.,1,2
+Bike,Edge,Basic,Perform a bike brake pad replacement,Replace brake pads if they have reached their wear limit.,1,2
+Bike,Edge,Basic,Activate bike's windscreen adjustment,Adjust the windscreen for optimal wind protection.,1,2
+Bike,Edge,Basic,Check for proper brake fluid,Ensure the correct brake fluid type is used in the system.,1,2
+Bike,Edge,Basic,Activate bike's dynamic engine mapping,Utilize dynamic engine mapping for optimized performance.,1,2
+Bike,Edge,Basic,Check for loose bolts in the handlebar grips,Inspect and tighten any loose bolts in the handlebar grips.,1,2
+Bike,Edge,Tires/Tyres,Perform a bike wheel balancing test,Ensure the wheels are properly balanced for a smooth ride.,1,1
+Bike,Edge,Tires/Tyres,Activate bike's cornering traction control,Utilize cornering traction control for enhanced stability in turns.,1,1
+Bike,Edge,Basic,Check for proper throttle position sensor calibration,Calibrate the throttle position sensor for accurate readings.,1,2
+Bike,Edge,Basic,Perform a bike suspension compression adjustment,Adjust suspension compression for varying road conditions.,1,2
+Bike,Edge,Basic,Activate bike's intelligent brake system,Utilize intelligent brake system for optimal braking distribution.,1,2
+Bike,Edge,Basic,Check for loose bolts in the brake calipers,Inspect and tighten any loose bolts in the brake calipers.,1,2
+Bike,Edge,Basic,Perform a bike headlight alignment test,Ensure the headlights are properly aligned for optimal visibility.,1,2
+Bike,Edge,Basic,Activate bike's launch control for drag racing,Utilize launch control for lightning-fast drag race starts.,1,2
+Bike,Edge,Battery/Fuel,Perform a bike transmission oil change,Regularly change transmission oil for smooth gear shifting.,1,0
+Bike,Edge,Basic,Activate bike's adjustable footpeg positions,Adjust footpeg positions for a customized and comfortable ride.,1,2
+Bike,Edge,Basic,Check for loose bolts in the front fork mounts,Inspect and tighten any loose bolts in the front fork mounts.,1,2
+Bike,Edge,Basic,Lock the Bike,locks the bike,1,2
+Bike,Edge,Basic,Unlock the Bike,unlocks the bike,1,2
+Bike,Edge,Basic,Activate bike's off-road mode,Utilize off-road mode for optimized performance on unpaved surfaces.,1,2
+Bike,Edge,Tires/Tyres,Check for proper wheelbase measurement,Ensure the wheelbase meets manufacturer specifications for stability.,1,1
+Bike,Edge,Basic,Perform a bike suspension rebound damping test,Adjust suspension rebound damping for improved handling.,1,2
+Bike,Edge,Basic,Activate bike's quick action throttle,Utilize quick action throttle for rapid and precise throttle response.,1,2
+Bike,Edge,Basic,Check for loose bolts in the rear brake caliper,Inspect and tighten any loose bolts in the rear brake caliper.,1,2
+Bike,Edge,Basic,Perform a bike clutch cable lubrication,Regularly lubricate the clutch cable for smooth operation.,1,2
+Bike,Edge,Basic,Activate bike's anti-rear wheel lift system,Utilize anti-rear wheel lift system for stable braking during hard deceleration.,1,2
+Bike,Edge,Tires/Tyres,Check for proper tire/tyre balancing,Ensure Tires/Tyres are balanced to prevent vibrations and uneven wear.,1,1
+Bike,Edge,Basic,Perform a bike fork oil level inspection,Check fork oil levels for optimal suspension performance.,1,2
+Bike,Edge,Basic,Activate bike's selectable ride modes,Choose ride modes for different riding conditions and preferences.,1,2
+Bike,Edge,Basic,Check for loose bolts in the rear suspension linkage,Inspect and tighten any loose bolts in the rear suspension linkage.,1,2
+Bike,Edge,Basic,Perform a bike throttle cable lubrication,Regularly lubricate the throttle cable for smooth throttle operation.,1,2
+Bike,Edge,Basic,Activate bike's adjustable brake lever,Adjust the brake lever for personalized reach and comfort.,1,2
+Bike,Edge,Basic,Check for proper alignment of the bike's triple clamp,Ensure the triple clamp is aligned for accurate steering.,1,2
+Bike,Edge,Basic,Perform  fork seal replacement,Replace fork seals if they show signs of leaks or damage.,1,2
+Bike,Edge,Basic,Check for loose bolts in the bike's exhaust header,Inspect and tighten any loose bolts in the exhaust header.,1,2
+Bike,Edge,Basic,Perform a bike suspension sag measurement,Adjust suspension sag for optimal weight distribution.,1,2
+Bike,Edge,Basic,Activate bike's personalized rider profile,Create a personalized rider profile for customized bike settings.,1,2
+Bike,Edge,Basic,Activate bike's auto-rev matching,Utilize auto-rev matching for seamless downshifts.,1,2
+Bike,Edge,Basic,Check for loose bolts in the bike's frame,Inspect and tighten any loose bolts in the frame.,1,2
+Bike,Edge,Tires/Tyres,Perform a bike tire/tyre pressure adjustment,Adjust tire/tyre pressure for optimal traction and handling.,1,1
+Bike,Edge,Basic,Activate bike's adaptive cruise control,Utilize adaptive cruise control for maintaining a set following distance.,1,2
+Bike,Edge,Basic,Check for proper brake rotor thickness,Ensure brake rotors meet the recommended thickness.,1,2
+Bike,Edge,Basic,Perform a bike engine oil level check,Verify engine oil level to ensure proper lubrication.,1,2
+Bike,Edge,Basic,Activate bike's variable valve timing,Utilize variable valve timing for improved engine efficiency.,1,2
+Bike,Edge,Basic,Check for loose bolts in the bike's fairing brackets,Inspect and tighten any loose bolts in the fairing brackets.,1,2
+Bike,Edge,Basic,Perform a bike throttle body synchronization,Adjust throttle body synchronization for even engine performance.,1,2
+Bike,Edge,Basic,Activate bike's hill start control,Utilize hill start control for easy starts on inclines.,1,2
+Bike,Edge,Basic,Check for proper brake master cylinder fluid,Ensure brake master cylinder fluid is at the correct level.,1,2
+Bike,Edge,Basic,Perform a bike spark plug gap inspection,Check spark plug gaps for optimal combustion.,1,2
+Bike,Edge,Basic,Activate bike's head lights,Utilize cornering lights for enhanced visibility in turns.,1,2
+Bike,Edge,Basic,Check for loose bolts in the bike's front shock linkage,Inspect and tighten any loose bolts in the rear shock linkage.,1,2
+Bike,Edge,Basic,Perform a bike coolant flush,Regularly flush the coolant system for efficient engine cooling.,1,2
+Bike,Edge,Basic,Activate bike's heated seats,Use heated seats for comfort in colder weather.,1,2
+Bike,Edge,Basic,Check for right brake lever position,Adjust brake lever position for comfortable braking.,1,2
+Bike,Edge,Basic,Perform a bike exhaust system inspection,Inspect the exhaust system for leaks or damage.,1,2
+Bike,Edge,Basic,Activate bike's linked braking system,Utilize linked braking for simultaneous front and rear brake engagement.,1,2
+Bike,Edge,Basic,Check for loose bolts in the bike's swingarm pivot,Inspect and tighten any loose bolts in the swingarm pivot.,1,2
+Bike,Edge,Basic,Perform a bike air filter replacement,Replace the air filter for optimal engine performance.,1,2
+Bike,Edge,Tires/Tyres,Activate bike's tire/tyre pressure monitoring system,Utilize tire/tyre pressure monitoring for real-time pressure information.,1,1
+Bike,Edge,Basic,Check for proper clutch lever position,Adjust clutch lever position for comfortable engagement.,1,2
+Bike,Edge,Tires/Tyres,Perform a bike tire/tyre tread depth inspection,Check tire/tyre tread depth for safe and legal limits.,1,1
+Bike,Edge,Basic,Start Engine,Processing your fuel related command please wait,1,2
+Bike,Edge,Basic,Stop Engine,Processing your fuel related command please wait,1,2
+Bike,Edge,Basic,Activate bike's rain mode,Utilize rain mode for safer riding in wet conditions.,1,2
+Bike,Edge,Battery/Fuel,Perform a bike fuel injector cleaning,Clean fuel injectors for improved fuel atomization.,1,0
+Bike,Edge,Tires/Tyres,Activate bike's tire/tyre temperature monitoring,Utilize tire/tyre temperature monitoring for optimal tire/tyre performance.,1,1

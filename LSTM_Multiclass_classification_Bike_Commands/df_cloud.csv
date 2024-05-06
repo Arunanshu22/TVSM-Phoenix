@@ -1,0 +1,449 @@
+Class,Subclass,SubclassCategory,Commands,Response,Label,Subclass_Label_Category
+Bike,Cloud,Songs/media,"   Play ""XYZ"" by ""ABC""","Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play my favorite song.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start playing music.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Shuffle my playlist.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play the latest track.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Listen to an artist's top hits.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Show me new albums.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find songs by genre.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a podcast episode.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Shuffle my favorite tunes.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a video playlist.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Repeat this track.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Skip to the next song.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Show me music videos.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Discover new artists.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play something entertaining.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Search for upbeat tracks.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Listen to the latest album.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a random song.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Show me popular tracks.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Tune in to a radio station.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Can you play some background music?,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Recommend some relaxing tunes.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find me a podcast on productivity.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play an audiobook.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Create a custom playlist.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Tune in to a live radio station.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Shuffle my workout playlist.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play some classical music.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a meditation track.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Listen to a comedy show.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Explore ambient sounds.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Show me recent music releases.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Launch the firmware update for your bike,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Recommend a podcast episode.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Curate a study music mix.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play some instrumental music.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Show me trending music charts.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Listen to a live DJ set.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find me a podcast on history.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Discover new indie artists.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Initiate a music session.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Dive into the tunes.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Let's groove with some music.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Commence the audio journey.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Set the mood with music.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play some ambient music.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find me a playlist for studying.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Can you recommend some jazz tunes?,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a podcast on technology.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play the latest hip-hop tracks.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Show me some acoustic covers.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find a workout playlist.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a classical piano piece.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Discover new indie bands.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a meditation soundtrack.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Recommend a comedy podcast.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a mix of '80s hits.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find me some relaxing nature sounds.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a rock music marathon.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a motivational speech.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Show me popular songs from the '90s.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play the top charts.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find a podcast on true crime.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a reggae playlist.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a live concert recording.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Can you play some indie folk music?,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find a podcast on personal development.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a playlist for road trips.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a compilation of movie soundtracks.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find me a guided meditation session.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Launch a playlist for relaxation.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a live recording of a jazz concert.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a mix of electronic dance music.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Recommend some motivational speeches.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a podcast on astronomy.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find a playlist for yoga sessions.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Launch an album of classical symphonies.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a collection of spoken word poetry.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a playlist for a rainy day.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find a podcast on mindfulness.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play some instrumental covers of popular songs.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Launch a mix of world music.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a compilation of comedy sketches.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find me a podcast on historical mysteries.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a playlist for creative inspiration.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play ambient sounds for focus.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find a podcast about true crime stories.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Launch a playlist for morning workouts.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play the top hits from the 90s.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a mix of instrumental jazz.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find a podcast on urban legends.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a collection of acoustic covers.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Launch a playlist for studying.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a podcast on science fiction.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find a playlist for a beach day.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Start a mix of classical piano music.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a collection of nature sounds.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Launch a playlist for cooking dinner.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Play a podcast on technology trends.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,Songs/media,Find a playlist for driving at night.,"Please wait, your request is been processed.",1,0
+Bike,Cloud,News/Notification,Are there any new notifications or messages on my phone or social media inbox?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Can you check if I have any new emails?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Did I receive any messages on Instagram?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Any updates from my social media accounts?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Can you sync with my phone for the latest notifications?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Check if there are any important alerts on my device.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Did I miss any calls or texts on my phone?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Show notifications from yesterday.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Update me on any new messages.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Send a notification when the package arrives.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify me about upcoming appointments.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Warn me if the battery is running low.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Prompt me to take my medication.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify me of any system updates.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Do I have anything pending in my notification center?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Can you inform me about any missed calls?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Show alerts for unread emails.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Remind me about the upcoming event.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify me if there's breaking news./Are there any breaking news stories happening right now?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Send me a notification for birthdays/ Show me any birthday reminders from social media.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Warn me about low storage space.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Alert me about important deadlines.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify me about new software updates.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Alert me if there's suspicious activity.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Update me on the latest sports scores.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify me about upcoming meetings.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Alert me if the internet connection is lost.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,"Are there any missed calls, texts, or app alerts?",Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Is there anything new I should be aware of?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Any updates in my banking app/Social Media or any other apps?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Did I get tagged in any new posts on Facebook? Or any notifications fromFacebook,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Did any packages get delivered according to my shipping app or Amazon or Flipkart or Delhivery ?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Did I receive any friend requests on social media?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Are there any stories waiting to be viewed on social media?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Are there any upcoming events on my calendar?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Do I have any reminders scheduled for today?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Is there anything on my to-do list that needs attention?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Did my favorite news source publish any new articles?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Are there any low storage warnings on my device?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Did I receive any security alerts about my accounts?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Check for any SMS on my phone?,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Check if any parcel delivered from Zomato / Swiggy / Zepto / BigBasket / [ ],Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Inform me about any upcoming appointments.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify me when my package is delivered.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify when food delivery arrived,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Remind me to take my medication.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify me if there's a sale on items from my wishlist.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Alert me about any suspicious login attempts.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify me when my friend sends me a message.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify me about any flight delays or cancellations.,Processing your request please wait,1,1
+Bike,Cloud,News/Notification,Notify me about bank debit/ credit messages,Processing your request please wait,1,1
+Bike,Cloud,Weather,What is the current temperature?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there any precipitation expected today?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the humidity level?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the wind speed?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the atmospheric pressure?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Can you provide the weather forecast?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,How is the climate today?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Are there any weather patterns to be aware of?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,How much rainfall is expected?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there any snowfall expected?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the cloud cover?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,How long will the sunshine last?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the UV index?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Are there any weather alerts?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What are the current weather conditions?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Can you update me on the weather?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Are there any thunderstorms expected?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the heat index?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there any frost expected?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the air quality index?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Are there any tornado warnings?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the visibility like?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there any hail expected?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,How is the sunrise/sunset time?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the dew point?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Are there any weather advisories?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there any chance of freezing rain?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the forecast for tomorrow?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,How is the weather expected to change?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if the weather is sunny?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if the weather is windy?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if the weather is rainy?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if there is fog?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if there is mist?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if there are clouds?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if the weather/air is dusty?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if the weather is warm?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if the weather is hot?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if the weather is cool?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Check and tell if the weather is humid?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is it sunny outside?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,How windy is it currently?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Will it rain later today?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there any fog in the area?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there mist in the forecast?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Are there any clouds in the sky?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is the air dusty today?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is it cool outside right now?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is the weather warm today?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is it hot outside?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is the weather cool today?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,How humid is the weather?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is it dry outside?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Will there be a heatwave?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the chance of a thunderstorm?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there any chance of a tornado?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Are there any cyclone warnings?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there a chance of frost tonight?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Will there be any lightning?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there any chance of flooding?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Will there be a hailstorm?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is it safe to go outside?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the weather like now/today/tomorrow/morning/afternoon/evening/night/night?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Will there be any precipitation tomorrow?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,How is the weather affecting travel?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is it safe for outdoor activities?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Are there any weather-related road closures?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there any danger of landslides?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Will there be any severe weather events?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there a chance of a dust storm?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,How is the weather in XYZ location/place?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Will it rain in morning/afternoon/evening/night/midngiht today?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the weather like at [location] right now?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the weather like at [destination] right now?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,What is the weather like at [place] right now?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,Is there any chance of rain now/today/tomorrow/morning/afternoon/evening/night/midnight ?,Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the weather in [City] for the next hour?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the weather like today?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the weather forecast for tomorrow?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, will it rain today?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the temperature outside right now?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, is it going to be sunny tomorrow?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, do I need an umbrella today?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the weather in [City]?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, is it windy outside?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the humidity level today?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the weather like in [City] tomorrow?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, is there a chance of thunderstorms?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the UV index today?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the forecast for the weekend?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, is it foggy outside?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, will it snow tomorrow?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the weather in [City] for the next 7 days?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, do I need to wear a jacket today?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the weather like in [City] right now?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the air quality index?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, is there a heatwave warning?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, what's the weather going to be like for my morning run?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, is it going to be hot today?",Fetching the response  please wait,1,2
+Bike,Cloud,Weather,"TVS, will there be any precipitation?",Fetching the response  please wait,1,2
+Bike,Cloud,News/Notification,Show headlines/news headlines,Here are the latest headlines.,1,1
+Bike,Cloud,News/Notification,Any breaking news?,Yes we have breaking news. Let me fetch the latest updates for you.,1,1
+Bike,Cloud,News/Notification,What are the latest sports updates?,Sure let me check the latest sports news for you.,1,1
+Bike,Cloud,News/Notification,Give me the latest news,Here are the most recent news updates.,1,1
+Bike,Cloud,News/Notification,Show me what's trending,Sure I'll show you what's trending right now.,1,1
+Bike,Cloud,News/Notification,Are there any live updates?,Yes there are live updates available. Let me fetch them for you.,1,1
+Bike,Cloud,News/Notification,Any news alerts available?,Yes I can provide news alerts. What are you interested in?,1,1
+Bike,Cloud,News/Notification,Can I get coverage of ongoing events?,Of course I'll fetch coverage of ongoing events for you.,1,1
+Bike,Cloud,News/Notification,"Update me on the ""XYZ"" score",Sure I'll update you on the latest scores.,1,1
+Bike,Cloud,News/Notification,What are the results of the matches?,Let me find the results of the matches for you.,1,1
+Bike,Cloud,News/Notification,Show me the highlights,Here are the highlights of the latest events.,1,1
+Bike,Cloud,News/Notification,Find news articles for me,Sure I'll find news articles for you.,1,1
+Bike,Cloud,News/Notification,What are the top stories?,Here are the top stories of the day.,1,1
+Bike,Cloud,News/Notification,Show entertainment news,Here are the latest entertainment news updates.,1,1
+Bike,Cloud,News/Notification,Access the news feed,You can access the news feed through the provided link.,1,1
+Bike,Cloud,News/Notification,Provide the latest news updates,Here are the latest news updates.,1,1
+Bike,Cloud,News/Notification,Are there any updates on current affairs?,Yes there are updates on current affairs. Let me fetch them for you.,1,1
+Bike,Cloud,News/Notification,Show me the latest articles,Here are the latest articles.,1,1
+Bike,Cloud,News/Notification,Any updates on the stock market?,Yes let me fetch the latest updates on the stock market.,1,1
+Bike,Cloud,News/Notification,Show news from reliable sources,Here are news articles from reliable sources.,1,1
+Bike,Cloud,News/Notification,What's the buzz on social media?,Let me check what's buzzing on social media for you.,1,1
+Bike,Cloud,News/Notification,Give me the headlines in tech,Sure I'll provide you with tech headlines.,1,1
+Bike,Cloud,News/Notification,Any updates on world events?,Yes there are updates on world events. Let me fetch them for you.,1,1
+Bike,Cloud,News/Notification,Show me news related to health and wellness,Here are the latest news related to health and wellness.,1,1
+Bike,Cloud,News/Notification,Any updates on the economy?,Yes let me fetch the latest updates on the economy for you.,1,1
+Bike,Cloud,News/Notification,Provide news updates in [my preferred] language,Sure I'll provide news updates in your preferred language.,1,1
+Bike,Cloud,News/Notification,Any updates on climate and environment?,Yes let me fetch the latest updates on climate and environment for you.,1,1
+Bike,Cloud,News/Notification,Can you give me insights into international news?,Sure I'll provide you with insights into international news.,1,1
+Bike,Cloud,News/Notification,Show me local news updates,Here are the latest local news updates.,1,1
+Bike,Cloud,News/Notification,Tell me the score for XYZ,The score  is updated please wait.,1,1
+Bike,Cloud,News/Notification,Tell me the result of XYZ vs ABC,The result  is updated please wait.,1,1
+Bike,Cloud,News/Notification,Tell me yesterday's match's score,Yesterday's match's score is update please wait.,1,1
+Bike,Cloud,News/Notification,Can you give me details about recent political developments?,Sure I'll provide you with details about recent political developments.,1,1
+Bike,Cloud,News/Notification,Show me trending news topics,Here are the trending news topics.,1,1
+Bike,Cloud,News/Notification,Can you provide news related to business and finance?,Yes I can provide news related to business and finance. Let me fetch them for you.,1,1
+Bike,Cloud,News/Notification,What's the latest in the field of science and research?,Let me fetch the latest updates in the field of science and research for you.,1,1
+Bike,Cloud,News/Notification,Any breaking news alerts?,Yes there are breaking news alerts. Let me fetch them for you.,1,1
+Bike,Cloud,News/Notification,What are the top stories of the day?,Here are the top stories of the day.,1,1
+Bike,Cloud,News/Notification,Show me news articles from reputable sources,Here are news articles from reputable sources.,1,1
+Bike,Cloud,News/Notification,Any updates on new technological advancements?,Yes let me fetch the latest updates on new technological advancements for you.,1,1
+Bike,Cloud,News/Notification,Show me the top news stories today.,Here are the top news stories for today.,1,1
+Bike,Cloud,News/Notification,What are the trending news topics right now?,Here are the trending news topics at the moment.,1,1
+Bike,Cloud,News/Notification,Find news articles about [specific topic].,Here are news articles about [specific topic].,1,1
+Bike,Cloud,News/Notification,Search for news from [specific source].,Here are news articles from [specific source].,1,1
+Bike,Cloud,News/Notification,Show me local news headlines.,Here are the local news headlines.,1,1
+Bike,Cloud,News/Notification,Find news articles about [topic] in [city/country].,Here are news articles about [topic] in [city/country].,1,1
+Bike,Cloud,News/Notification,What are the current events happening in [region]?,Here are the current events happening in [region].,1,1
+Bike,Cloud,News/Notification,Keep me updated on news related to [business/science/technology].,Sure I'll keep you updated on news related to [business/science/technology].,1,1
+Bike,Cloud,News/Notification,Show me articles about the recent [political event].,Here are articles about the recent [political event].,1,1
+Bike,Cloud,News/Notification,Find news related to the upcoming [sports event].,Here is news related to the upcoming [sports event].,1,1
+Bike,Cloud,News/Notification,Show me trending news topics on social media.,Here are the trending news topics on social media.,1,1
+Bike,Cloud,Traffic/Maps,Can you recommend a charging station nearby?,"Yes, there's a charging station located at [location].",1,3
+Bike,Cloud,Traffic/Maps,Where is the nearest gas station?,Processing your fuel related command please wait.,1,3
+Bike,Cloud,Traffic/Maps,Can you estimate the distance to the next gas station?,Processing your fuel related command please wait.,1,3
+Bike,Cloud,Traffic/Maps,Show me alternative routes to avoid traffic,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Will there be heavy traffic tomorrow,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Show me best locations in hyderabad/goa/kashmir/punjab,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Will there be heavy traffic this month,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Will there be heavy traffic today,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Tell me about public transportation information,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Tell me the fastest route from Hyderabad to Delhi,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Determine the fastest route from location X to Y,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Help me plan a road trip with multiple stops,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Calculate estimated arrival times from location x to y,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Is it possible to customize my route to avoid tolls or highways?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"Using Google Maps show me nearby restaurants, gas stations, and other points of interest",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Please  share me your real-time location using maps,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Show me directions from location X to Y ,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Show me directions from location Hyderabad to chennai ,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Go to Specific Location,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,go to delhi through hyderabad,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,go to x through y,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Go to delhi/punjab/hyderabad/kashmir,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,How to reach to a specific Location,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Can I see the traffic conditions on my route?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Set multiple destinations for a road trip,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,How do I find information about local events or attractions?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Are there any road closures or construction sites along my route?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,How do I get from [start location] to [end location]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"What's the fastest route to [destination]? (like Delhi , Hyderabad )",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What's the most scenic route to [destination]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"What are the traffic conditions on [road name] right now?(including accidents, construction)",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Are there any road closures on [route] today?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,How long will it take to get to [destination] by [mode of transport]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Where is the nearest bus stop/train station/subway station?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps, What are the departure and arrival times for public transport to [destination]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Where is the nearest [gas station/ATM/restaurant/grocery store/hospital] near me?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What are the opening hours of [business name] at [address]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What are the reviews for [restaurant name]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Is [business name] open right now?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Please check nearby tyre-repair/repair shops?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Where is the nearest [hotel/restaurant/motel/café/eatery] near me?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Where can I park near [location]? (paid or free specific lot availability),Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"Where can I find [specific type of parking] (e.g. handicap accessible , electric vehicle charging)?",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What's my current location?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What is the address of this place? (referring to current location),Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Show me [landmark/building name] on the map.,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Search for [business name/type of place] near me.,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What cities/towns/landmarks are within a [distance] radius of here?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Can you show me alternate routes to [destination] considering traffic conditions?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What is the distance between [start location] and [end location] along different routes?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What are the different ways to get to [destination] by public transport?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Is there a train station at [location]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,How much does it cost to take a taxi from here to [destination]? (estimate),Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Are there any tolls on the way to [destination]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Show me historical landmarks near me,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Find walking/biking trails near me.,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What's the nearest public restroom?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Explore places to eat around,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,go to near by tvs showroom ,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What's the most scenic route to [destination] avoiding highways,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,go to nearby hospital,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,go to kolkata/USA/Australia/germany/UK/china/japan,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,go to near by railway station,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What's the fastest route to [destination] at [time of day] rush hour,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What's the most fuel-efficient route to [destination]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Are there any detours on [route] today?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"How long will it take to get to [destination] by [mode of transport] during [time of day]? (e.g., weekday afternoon)",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What are the departure and arrival times for the next [public transport type] to [destination]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Where is the nearest [gas station/ATM/restaurant/grocery store/hospital/pharmacy/rest area] open now?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What are the parking rates at [location]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Find [landmark/building name] on the map and show opening hours/information,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"Search for [business name/type of place] with specific features (e.g., drive-thru, open 24 hours, with outdoor seating)",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Search for events happening near me today/this weekend.,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Find [type of business] with high ratings near me.,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Where can I find [specific service] near me ?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"Find places offering [promotion/discount] near me (e.g., happy hour, student discount).",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"Show me [type of place] nearby. (e.g., museums, parks, historical sites,library, community center)",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What is the elevation at this location?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What are the different ways to get to [destination] using a combination of transport options (e.g public transport)?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"Is there a [specific type of public transport station] at [location]? (e.g., subway station accepting bicycles)",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What are the rest stops along the way on [route]?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Is there any accident on the route to Destination/Location/Place?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Please check nearby mechanic shop?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Where is the shortest route to Destination/Location/Place?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"What is the typical traffic pattern on [road name] at [time of day] / 6 AM/ 6 PM/ 11 AM / 11 PM? or (e.g., morning rush hour, weekend evenings)",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Can you show me traffic conditions along my route in real-time?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"Considering live traffic, will taking [alternate route] save me time compared to the original route?",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What is the expected traffic delay on [highway name] due to the reported accident?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Is there a way to avoid toll roads on my route?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Can you suggest a route with the least amount of traffic lights?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What is the most fuel-efficient route considering current traffic conditions?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What is the most scenic route considering both distance and traffic?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Are there any upcoming road closures along my route?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Can you show me historical traffic data for [road name] for the past week?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What is the next arrival time for the [public transport type] to [destination] from the nearest stop? (real-time),Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Is there a fast-charging option available nearby?,"Yes, there's a fast-charging option available at [location].",1,3
+Bike,Cloud,Traffic/Maps,What is the most accessible public transport route to [destination] for people with disabilities?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Find pet-friendly rest stops along my route,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Can you help me find a bike rental agency near my destination?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What is the elevation profile of this hiking trail?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"What are the parking regulations at my destination (e.g., permit required, metered parking)?",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Can the map integrate with ride-sharing apps to book a ride directly?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Can the map connect with a fitness tracker to show progress on a running/cycling route?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Is traffic bad right now?(unclear location),Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,My bike breaks down on the highway. Can you help me find the nearest tow bike service station?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Display real-time parking availability at specific locations?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,go to near by temple,,1,3
+Bike,Cloud,Traffic/Maps,"suggest me or go through alternative routes based on user preferences (scenic, fuel-efficient, etc.)?",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,show me different map views of [satellite/traffic] and zoom functionalities?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"Can you take me to a place called 'Bob's Burgers'?"" (ambiguous - restaurant or TV show reference?)",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Find the nearest [gas station/ATM/restaurant/grocery store/hospital] near me?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What's the nearest public restroom with baby changing facilities?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What is the nearest public transportation stop with a bike rack?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"Show me the fastest route on a bike path that doesn't exist."" (unsuitable route type)",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,"What's the best route to the beach?"" (multiple beaches possible)",Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Save my favorite locations and routes for future reference?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Navigate to [address].,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Find [address] near me.,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Directions to [address].,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Show [location name] on map.,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Search for points of interest near [location name].,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Walking directions from [start] to [end].,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Navigate to Address,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Show me best location in hyderabad,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Is there traffic on my route ?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,What's the fastest way to get to [destination] ?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Show traffic camera feed for [intersection name] .,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Find alternate route to [destination].,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Alert me of any disruptions to my route.,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Show name on map,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Search for points of interest near location,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Walking directions from place,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Plan a trip with multiple stops,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Show a satellite view of location,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Find restaurants with outdoor seating near me,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Recommend a scenic route to location,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Search for parking near me,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Find the nearest train station,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Suggest routes suitable for wheelchairs or strollers?,Your request is been processed please wait,1,3
+Bike,Cloud,Traffic/Maps,Navigate to [destination],You receive turn-by-turn directions to [destination].,1,3
+Bike,Cloud,Traffic/Maps,Navigate to hyderbad/kolkata/banglore,You receive turn-by-turn directions to [destination].,1,3
+Bike,Cloud,Weather,Check weather forecast,The weather forecast is [weather].,1,2
+Bike,Cloud,Songs/media,Play music,Your favorite music starts playing.,1,0
+Bike,Cloud,Traffic/Maps,Take a scenic route,The navigation suggests a scenic route.,1,3
+Bike,Cloud,Traffic/Maps,Check for traffic updates,There are no traffic updates at the moment.,1,3
